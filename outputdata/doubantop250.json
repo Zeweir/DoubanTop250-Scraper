@@ -1,0 +1,4420 @@
+[
+    {
+        "title": "肖申克的救赎",
+        "other_titles": [
+            "The Shawshank Redemption",
+            "月黑高飞(港)  /  刺激1995(台)"
+        ],
+        "director": "弗兰克·德拉邦特 Frank Darabont",
+        "year": "1994",
+        "country": "美国",
+        "genre": [
+            "犯罪",
+            "剧情"
+        ],
+        "score": "9.7",
+        "comments": "3164291",
+        "quote": "希望让人自由。"
+    },
+    {
+        "title": "霸王别姬",
+        "other_titles": [
+            "再见，我的妾  /  Farewell My Concubine"
+        ],
+        "director": "陈凯歌 Kaige Chen",
+        "year": "1993",
+        "country": "中国大陆 中国香港",
+        "genre": [
+            "剧情",
+            "爱情",
+            "同性"
+        ],
+        "score": "9.6",
+        "comments": "2336764",
+        "quote": "风华绝代。"
+    },
+    {
+        "title": "泰坦尼克号",
+        "other_titles": [
+            "Titanic",
+            "铁达尼号(港 / 台)"
+        ],
+        "director": "詹姆斯·卡梅隆 James Cameron",
+        "year": "1997",
+        "country": "美国 墨西哥",
+        "genre": [
+            "剧情",
+            "爱情",
+            "灾难"
+        ],
+        "score": "9.5",
+        "comments": "2400672",
+        "quote": "失去的才是永恒的。"
+    },
+    {
+        "title": "阿甘正传",
+        "other_titles": [
+            "Forrest Gump",
+            "福雷斯特·冈普"
+        ],
+        "director": "罗伯特·泽米吉斯 Robert Zemeckis",
+        "year": "1994",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "9.5",
+        "comments": "2351277",
+        "quote": "一部美国近现代史。"
+    },
+    {
+        "title": "千与千寻",
+        "other_titles": [
+            "千と千尋の神隠し",
+            "神隐少女(台)  /  千与千寻的神隐"
+        ],
+        "director": "宫崎骏 Hayao Miyazaki",
+        "year": "2001",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "动画",
+            "奇幻"
+        ],
+        "score": "9.4",
+        "comments": "2444335",
+        "quote": "最好的宫崎骏，最好的久石让。"
+    },
+    {
+        "title": "美丽人生",
+        "other_titles": [
+            "La vita è bella",
+            "一个快乐的传说(港)  /  Life Is Beautiful"
+        ],
+        "director": "罗伯托·贝尼尼 Roberto Benigni",
+        "year": "1997",
+        "country": "意大利",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情",
+            "战争"
+        ],
+        "score": "9.5",
+        "comments": "1434006",
+        "quote": "最美的谎言。"
+    },
+    {
+        "title": "这个杀手不太冷",
+        "other_titles": [
+            "Léon",
+            "终极追杀令(台)  /  杀手莱昂"
+        ],
+        "director": "吕克·贝松 Luc Besson",
+        "year": "1994",
+        "country": "法国 美国",
+        "genre": [
+            "剧情",
+            "动作",
+            "犯罪"
+        ],
+        "score": "9.4",
+        "comments": "2481160",
+        "quote": "怪蜀黍和小萝莉不得不说的故事。"
+    },
+    {
+        "title": "星际穿越",
+        "other_titles": [
+            "Interstellar",
+            "星际启示录(港)  /  星际效应(台)"
+        ],
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "year": "2014",
+        "country": "美国 英国 加拿大",
+        "genre": [
+            "剧情",
+            "科幻",
+            "冒险"
+        ],
+        "score": "9.4",
+        "comments": "2077258",
+        "quote": "爱是一种力量，让我们超越时空感知它的存在。"
+    },
+    {
+        "title": "盗梦空间",
+        "other_titles": [
+            "Inception",
+            "潜行凶间(港)  /  全面启动(台)"
+        ],
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "year": "2010",
+        "country": "美国 英国",
+        "genre": [
+            "剧情",
+            "科幻",
+            "悬疑",
+            "冒险"
+        ],
+        "score": "9.4",
+        "comments": "2246915",
+        "quote": "诺兰给了我们一场无法盗取的梦。"
+    },
+    {
+        "title": "楚门的世界",
+        "other_titles": [
+            "The Truman Show",
+            "真人Show(港)  /  真人戏"
+        ],
+        "director": "彼得·威尔 Peter Weir",
+        "year": "1998",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "科幻"
+        ],
+        "score": "9.4",
+        "comments": "1929150",
+        "quote": "如果再也不能见到你，祝你早安，午安，晚安。"
+    },
+    {
+        "title": "辛德勒的名单",
+        "other_titles": [
+            "Schindler's List",
+            "舒特拉的名单(港)  /  辛德勒名单"
+        ],
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "year": "1993",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "历史",
+            "战争"
+        ],
+        "score": "9.5",
+        "comments": "1210185",
+        "quote": "拯救一个人，就是拯救整个世界。"
+    },
+    {
+        "title": "忠犬八公的故事",
+        "other_titles": [
+            "Hachi: A Dog's Tale",
+            "秋田犬八千(港)  /  忠犬小八(台)"
+        ],
+        "director": "莱塞·霍尔斯道姆 Lasse Hallström",
+        "year": "2009",
+        "country": "美国 英国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.4",
+        "comments": "1498054",
+        "quote": "永远都不能忘记你所爱的人。"
+    },
+    {
+        "title": "海上钢琴师",
+        "other_titles": [
+            "La leggenda del pianista sull'oceano",
+            "声光伴我飞(港)  /  一九零零的传奇"
+        ],
+        "director": "朱塞佩·托纳多雷 Giuseppe Tornatore",
+        "year": "1998",
+        "country": "意大利",
+        "genre": [
+            "剧情",
+            "音乐"
+        ],
+        "score": "9.3",
+        "comments": "1821638",
+        "quote": "每个人都要走一条自己坚定了的路，就算是粉身碎骨。"
+    },
+    {
+        "title": "三傻大闹宝莱坞",
+        "other_titles": [
+            "3 Idiots",
+            "三个傻瓜(台)  /  作死不离3兄弟(港)"
+        ],
+        "director": "拉库马·希拉尼 Rajkumar Hirani",
+        "year": "2009",
+        "country": "印度",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情",
+            "歌舞"
+        ],
+        "score": "9.2",
+        "comments": "2010673",
+        "quote": "英俊版憨豆，高情商版谢耳朵。"
+    },
+    {
+        "title": "疯狂动物城",
+        "other_titles": [
+            "Zootopia",
+            "优兽大都会(港)  /  动物方城市(台)"
+        ],
+        "director": "拜伦·霍华德 Byron Howard / 瑞奇·摩尔 Rich Moore",
+        "year": "2016",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "score": "9.2",
+        "comments": "2162093",
+        "quote": "迪士尼给我们营造的乌托邦就是这样，永远善良勇敢，永远出乎意料。"
+    },
+    {
+        "title": "放牛班的春天",
+        "other_titles": [
+            "Les choristes",
+            "歌声伴我心(港)  /  唱诗班男孩"
+        ],
+        "director": "克里斯托夫·巴拉蒂 Christophe Barratier",
+        "year": "2004",
+        "country": "法国 瑞士 德国",
+        "genre": [
+            "剧情",
+            "音乐"
+        ],
+        "score": "9.3",
+        "comments": "1426630",
+        "quote": "天籁一般的童声，是最接近上帝的存在。"
+    },
+    {
+        "title": "机器人总动员",
+        "other_titles": [
+            "WALL·E",
+            "太空奇兵·威E(港)  /  瓦力(台)"
+        ],
+        "director": "安德鲁·斯坦顿 Andrew Stanton",
+        "year": "2008",
+        "country": "美国",
+        "genre": [
+            "科幻",
+            "动画",
+            "冒险"
+        ],
+        "score": "9.3",
+        "comments": "1434177",
+        "quote": "小瓦力，大人生。"
+    },
+    {
+        "title": "无间道",
+        "other_titles": [
+            "無間道",
+            "Infernal Affairs  /  Mou gaan dou"
+        ],
+        "director": "刘伟强 / 麦兆辉",
+        "year": "2002",
+        "country": "中国香港",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "惊悚"
+        ],
+        "score": "9.3",
+        "comments": "1505763",
+        "quote": "香港电影史上永不过时的杰作。"
+    },
+    {
+        "title": "控方证人",
+        "other_titles": [
+            "Witness for the Prosecution",
+            "雄才伟略  /  情妇"
+        ],
+        "director": "比利·怀尔德 Billy Wilder",
+        "year": "1957",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "9.6",
+        "comments": "667878",
+        "quote": "比利·怀德满分作品。"
+    },
+    {
+        "title": "大话西游之大圣娶亲",
+        "other_titles": [
+            "西遊記大結局之仙履奇緣",
+            "西游记完结篇仙履奇缘  /  齐天大圣西游记"
+        ],
+        "director": "刘镇伟 Jeffrey Lau",
+        "year": "1995",
+        "country": "中国香港 中国大陆",
+        "genre": [
+            "喜剧",
+            "爱情",
+            "奇幻",
+            "古装"
+        ],
+        "score": "9.2",
+        "comments": "1656994",
+        "quote": "一生所爱。"
+    },
+    {
+        "title": "熔炉",
+        "other_titles": [
+            "도가니",
+            "无声呐喊(港)  /  漩涡"
+        ],
+        "director": "黄东赫 Dong-hyuk Hwang",
+        "year": "2011",
+        "country": "韩国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.3",
+        "comments": "1006914",
+        "quote": "我们一路奋战不是为了改变世界，而是为了不让世界改变我们。"
+    },
+    {
+        "title": "触不可及",
+        "other_titles": [
+            "Intouchables",
+            "闪亮人生(港)  /  逆转人生(台)"
+        ],
+        "director": "奥利维·那卡什 Olivier Nakache / 艾力克·托兰达 Eric Toledano主...",
+        "year": "2011",
+        "country": "法国",
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "score": "9.3",
+        "comments": "1243386",
+        "quote": "满满温情的高雅喜剧。"
+    },
+    {
+        "title": "教父",
+        "other_titles": [
+            "The Godfather",
+            "Mario Puzo's The Godfather"
+        ],
+        "director": "弗朗西斯·福特·科波拉 Francis Ford Coppola",
+        "year": "1972",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "9.3",
+        "comments": "1063455",
+        "quote": "千万不要记恨你的对手，这样会让你失去理智。"
+    },
+    {
+        "title": "寻梦环游记",
+        "other_titles": [
+            "Coco",
+            "玩转极乐园(港)  /  可可夜总会(台)"
+        ],
+        "director": "李·昂克里奇 Lee Unkrich / 阿德里安·莫利纳 Adrian Molina",
+        "year": "2017",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "奇幻",
+            "音乐"
+        ],
+        "score": "9.1",
+        "comments": "1885677",
+        "quote": "死亡不是真的逝去，遗忘才是永恒的消亡。"
+    },
+    {
+        "title": "当幸福来敲门",
+        "other_titles": [
+            "The Pursuit of Happyness",
+            "寻找快乐的故事(港)  /  追求快乐"
+        ],
+        "director": "加布里尔·穆奇诺 Gabriele Muccino",
+        "year": "2006",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "家庭"
+        ],
+        "score": "9.1",
+        "comments": "1638559",
+        "quote": "平民励志片。"
+    },
+    {
+        "title": "末代皇帝",
+        "other_titles": [
+            "The Last Emperor",
+            "末代皇帝溥仪(港)  /  L'ultimo imperatore"
+        ],
+        "director": "贝纳尔多·贝托鲁奇 Bernardo Bertolucci",
+        "year": "1987",
+        "country": "英国 意大利 中国大陆 法国",
+        "genre": [
+            "剧情",
+            "传记",
+            "历史"
+        ],
+        "score": "9.3",
+        "comments": "987155",
+        "quote": "“不要跟我比惨，我比你更惨”再适合这部电影不过了。"
+    },
+    {
+        "title": "哈利·波特与魔法石",
+        "other_titles": [
+            "Harry Potter and the Sorcerer's Stone",
+            "哈利波特1：神秘的魔法石(港 / 台)"
+        ],
+        "director": "Chris Columbus",
+        "year": "2001",
+        "country": "美国 英国",
+        "genre": [
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.2",
+        "comments": "1358568",
+        "quote": "童话世界的开端。"
+    },
+    {
+        "title": "龙猫",
+        "other_titles": [
+            "となりのトトロ",
+            "邻居托托罗  /  邻家的豆豆龙"
+        ],
+        "director": "宫崎骏 Hayao Miyazaki",
+        "year": "1988",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.2",
+        "comments": "1368689",
+        "quote": "人人心中都有个龙猫，童年就永远不会消失。"
+    },
+    {
+        "title": "怦然心动",
+        "other_titles": [
+            "Flipped",
+            "萌动青春  /  青春萌动"
+        ],
+        "director": "罗伯·莱纳 Rob Reiner",
+        "year": "2010",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "score": "9.1",
+        "comments": "1986372",
+        "quote": "真正的幸福是来自内心深处。"
+    },
+    {
+        "title": "活着",
+        "other_titles": [
+            "人生  /  Lifetimes"
+        ],
+        "director": "张艺谋 Yimou Zhang",
+        "year": "1994",
+        "country": "中国大陆 中国香港",
+        "genre": [
+            "剧情",
+            "历史",
+            "家庭"
+        ],
+        "score": "9.3",
+        "comments": "934802",
+        "quote": "张艺谋最好的电影。"
+    },
+    {
+        "title": "蝙蝠侠：黑暗骑士",
+        "other_titles": [
+            "The Dark Knight",
+            "蝙蝠侠前传2：黑暗骑士  /  黑暗骑士(台)"
+        ],
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "year": "2008",
+        "country": "美国 英国",
+        "genre": [
+            "剧情",
+            "动作",
+            "科幻",
+            "犯罪",
+            "惊悚"
+        ],
+        "score": "9.2",
+        "comments": "1154808",
+        "quote": "无尽的黑暗。"
+    },
+    {
+        "title": "指环王3：王者无敌",
+        "other_titles": [
+            "The Lord of the Rings: The Return of the King",
+            "魔戒三部曲：王者再临(台 / 港)"
+        ],
+        "director": "彼得·杰克逊 Peter Jackson",
+        "year": "2003",
+        "country": "美国 新西兰",
+        "genre": [
+            "剧情",
+            "动作",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.3",
+        "comments": "878593",
+        "quote": "史诗的终章。"
+    },
+    {
+        "title": "我不是药神",
+        "other_titles": [
+            "中国药神  /  印度药神"
+        ],
+        "director": "文牧野 Muye Wen",
+        "year": "2018",
+        "country": "中国大陆",
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "score": "9.0",
+        "comments": "2282085",
+        "quote": "对我们国家而言，这样的电影多一部是一部。"
+    },
+    {
+        "title": "乱世佳人",
+        "other_titles": [
+            "Gone with the Wind",
+            "飘"
+        ],
+        "director": "维克多·弗莱明 Victor Fleming / 乔治·库克 George Cukor",
+        "year": "1939",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "历史",
+            "爱情",
+            "战争"
+        ],
+        "score": "9.3",
+        "comments": "760755",
+        "quote": "Tomorrow is another day."
+    },
+    {
+        "title": "飞屋环游记",
+        "other_titles": [
+            "Up",
+            "冲天救兵(港)  /  天外奇迹(台)"
+        ],
+        "director": "彼特·道格特 Pete Docter / 鲍勃·彼德森 Bob Peterson",
+        "year": "2009",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "score": "9.1",
+        "comments": "1446204",
+        "quote": "最后那些最无聊的事情，才是最值得怀念的。"
+    },
+    {
+        "title": "让子弹飞",
+        "other_titles": [
+            "让子弹飞一会儿  /  火烧云"
+        ],
+        "director": "姜文 Wen Jiang",
+        "year": "2010",
+        "country": "中国大陆 中国香港",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动作",
+            "西部"
+        ],
+        "score": "9.0",
+        "comments": "1857744",
+        "quote": "你给我翻译翻译，神马叫做TMD的惊喜。"
+    },
+    {
+        "title": "哈尔的移动城堡",
+        "other_titles": [
+            "ハウルの動く城",
+            "哈尔移动城堡(港)  /  霍尔的移动城堡(台)"
+        ],
+        "director": "宫崎骏 Hayao Miyazaki",
+        "year": "2004",
+        "country": "日本",
+        "genre": [
+            "爱情",
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.1",
+        "comments": "1230389",
+        "quote": "带着心爱的人在天空飞翔。"
+    },
+    {
+        "title": "素媛",
+        "other_titles": [
+            "소원",
+            "许愿  /  希望：为爱重生(台)"
+        ],
+        "director": "李濬益 Jun-ik Lee",
+        "year": "2013",
+        "country": "韩国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.3",
+        "comments": "751245",
+        "quote": "受过伤害的人总是笑得最开心，因为他们不愿意让身边的人承受一样的痛苦。"
+    },
+    {
+        "title": "十二怒汉",
+        "other_titles": [
+            "12 Angry Men",
+            "12怒汉  /  十二怒汉"
+        ],
+        "director": "Sidney Lumet",
+        "year": "1957",
+        "country": "美国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.4",
+        "comments": "552850",
+        "quote": "1957年的理想主义。"
+    },
+    {
+        "title": "海蒂和爷爷",
+        "other_titles": [
+            "Heidi",
+            "飘零燕(港)  /  海蒂"
+        ],
+        "director": "阿兰·葛斯彭纳 Alain Gsponer",
+        "year": "2015",
+        "country": "德国 瑞士",
+        "genre": [
+            "剧情",
+            "冒险",
+            "家庭"
+        ],
+        "score": "9.3",
+        "comments": "731384",
+        "quote": "如果生活中有什么使你感到快乐，那就去做吧！不要管别人说什么。"
+    },
+    {
+        "title": "猫鼠游戏",
+        "other_titles": [
+            "Catch Me If You Can",
+            "逍遥法外  /  捉智双雄(港)"
+        ],
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "year": "2002",
+        "country": "美国 加拿大",
+        "genre": [
+            "传记",
+            "犯罪",
+            "剧情"
+        ],
+        "score": "9.1",
+        "comments": "1155550",
+        "quote": "骗子大师和执著警探的你追我跑故事。"
+    },
+    {
+        "title": "天空之城",
+        "other_titles": [
+            "天空の城ラピュタ",
+            "天空之城拉普他  /  空中城堡拉普他"
+        ],
+        "director": "宫崎骏 Hayao Miyazaki",
+        "year": "1986",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.2",
+        "comments": "972778",
+        "quote": "对天空的追逐，永不停止。"
+    },
+    {
+        "title": "摔跤吧！爸爸",
+        "other_titles": [
+            "Dangal",
+            "我和我的冠军女儿(台)  /  打死不离3父女(港)"
+        ],
+        "director": "涅提·蒂瓦里 Nitesh Tiwari",
+        "year": "2016",
+        "country": "印度",
+        "genre": [
+            "剧情",
+            "传记",
+            "运动",
+            "家庭"
+        ],
+        "score": "9.0",
+        "comments": "1692977",
+        "quote": "你不是在为你一个人战斗，你要让千千万万的女性看到女生并不是只能相夫教子。"
+    },
+    {
+        "title": "鬼子来了",
+        "other_titles": [
+            "Devils on the Doorstep"
+        ],
+        "director": "姜文 Wen Jiang",
+        "year": "2000",
+        "country": "中国大陆",
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "score": "9.3",
+        "comments": "688463",
+        "quote": "对敌人的仁慈，就是对自己残忍。"
+    },
+    {
+        "title": "少年派的奇幻漂流",
+        "other_titles": [
+            "Life of Pi",
+            "少年Pi的奇幻漂流  /  漂流少年Pi"
+        ],
+        "director": "李安 Ang Lee",
+        "year": "2012",
+        "country": "美国 中国台湾 英国 加拿大",
+        "genre": [
+            "剧情",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.1",
+        "comments": "1448707",
+        "quote": "瑰丽壮观、无人能及的冒险之旅。"
+    },
+    {
+        "title": "钢琴家",
+        "other_titles": [
+            "The Pianist",
+            "钢琴战曲(港)  /  战地琴人(台)"
+        ],
+        "director": "罗曼·波兰斯基 Roman Polanski",
+        "year": "2002",
+        "country": "英国 法国 波兰 德国 美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "战争",
+            "音乐"
+        ],
+        "score": "9.3",
+        "comments": "719202",
+        "quote": ""
+    },
+    {
+        "title": "指环王2：双塔奇兵",
+        "other_titles": [
+            "The Lord of the Rings: The Two Towers",
+            "魔戒二部曲：双城奇谋  /  指环王II：双塔"
+        ],
+        "director": "彼得·杰克逊 Peter Jackson",
+        "year": "2002",
+        "country": "美国 新西兰",
+        "genre": [
+            "剧情",
+            "动作",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.2",
+        "comments": "826570",
+        "quote": "承前启后的史诗篇章。"
+    },
+    {
+        "title": "大话西游之月光宝盒",
+        "other_titles": [
+            "西遊記第壹佰零壹回之月光寶盒",
+            "西游记101回月光宝盒  /  齐天大圣东游记"
+        ],
+        "director": "刘镇伟 Jeffrey Lau",
+        "year": "1995",
+        "country": "中国香港 中国大陆",
+        "genre": [
+            "喜剧",
+            "爱情",
+            "奇幻",
+            "古装"
+        ],
+        "score": "9.0",
+        "comments": "1320914",
+        "quote": ""
+    },
+    {
+        "title": "死亡诗社",
+        "other_titles": [
+            "Dead Poets Society",
+            "暴雨骄阳(港)  /  春风化雨(台)"
+        ],
+        "director": "彼得·威尔 Peter Weir",
+        "year": "1989",
+        "country": "美国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.2",
+        "comments": "833564",
+        "quote": "当一个死水般的体制内出现一个活跃的变数时，所有的腐臭都站在了光明的对面。"
+    },
+    {
+        "title": "何以为家",
+        "other_titles": [
+            "كفرناحوم",
+            "迦百农  /  星仔打官司(港)"
+        ],
+        "director": "娜丁·拉巴基 Nadine Labaki",
+        "year": "2018",
+        "country": "黎巴嫩 美国 法国 塞浦路斯 卡塔尔 英国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.1",
+        "comments": "1131948",
+        "quote": "凝视卑弱生命，用电影改变命运。"
+    },
+    {
+        "title": "闻香识女人",
+        "other_titles": [
+            "Scent of a Woman",
+            "女人香  /  女人的芳香"
+        ],
+        "director": "马丁·布莱斯 Martin Brest",
+        "year": "1992",
+        "country": "美国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.1",
+        "comments": "985828",
+        "quote": ""
+    },
+    {
+        "title": "绿皮书",
+        "other_titles": [
+            "Green Book",
+            "绿簿旅友(港)  /  幸福绿皮书(台)"
+        ],
+        "director": "彼得·法雷里 Peter Farrelly",
+        "year": "2018",
+        "country": "美国 中国大陆",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "传记",
+            "音乐"
+        ],
+        "score": "8.9",
+        "comments": "1820679",
+        "quote": "去除成见，需要勇气。"
+    },
+    {
+        "title": "大闹天宫",
+        "other_titles": [
+            "大闹天宫 上下集  /  The Monkey King"
+        ],
+        "director": "万籁鸣 Laiming Wan",
+        "year": "1961(中国大陆)",
+        "country": "1964(中国大陆)",
+        "genre": [
+            "1978(中国大陆)"
+        ],
+        "score": "9.4",
+        "comments": "489000",
+        "quote": ""
+    },
+    {
+        "title": "黑客帝国",
+        "other_titles": [
+            "The Matrix",
+            "22世纪杀人网络(港)  /  廿二世纪杀人网络(港)"
+        ],
+        "director": "安迪·沃卓斯基 Andy Wachowski / 拉娜·沃卓斯基 Lana Wachowski主...",
+        "year": "1999",
+        "country": "美国",
+        "genre": [
+            "动作",
+            "科幻"
+        ],
+        "score": "9.1",
+        "comments": "914963",
+        "quote": ""
+    },
+    {
+        "title": "指环王1：护戒使者",
+        "other_titles": [
+            "The Lord of the Rings: The Fellowship of the Ring",
+            "指环王1：魔戒再现  /  指环王I：护戒使者"
+        ],
+        "director": "彼得·杰克逊 Peter Jackson",
+        "year": "2001",
+        "country": "新西兰 美国",
+        "genre": [
+            "剧情",
+            "动作",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.1",
+        "comments": "926363",
+        "quote": ""
+    },
+    {
+        "title": "罗马假日",
+        "other_titles": [
+            "Roman Holiday",
+            "金枝玉叶(港)  /  罗马假期(台)"
+        ],
+        "director": "威廉·惠勒 William Wyler",
+        "year": "1953",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "剧情",
+            "爱情"
+        ],
+        "score": "9.1",
+        "comments": "1018316",
+        "quote": ""
+    },
+    {
+        "title": "教父2",
+        "other_titles": [
+            "The Godfather: Part II",
+            "教父续集(港)  /  教父II"
+        ],
+        "director": "弗朗西斯·福特·科波拉 Francis Ford Coppola",
+        "year": "1974",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "9.3",
+        "comments": "612249",
+        "quote": ""
+    },
+    {
+        "title": "狮子王",
+        "other_titles": [
+            "The Lion King",
+            "狮子王3D"
+        ],
+        "director": "Roger Allers / 罗伯·明可夫 Rob Minkoff",
+        "year": "1994",
+        "country": "美国",
+        "genre": [
+            "动画",
+            "冒险",
+            "歌舞"
+        ],
+        "score": "9.1",
+        "comments": "927229",
+        "quote": ""
+    },
+    {
+        "title": "天堂电影院",
+        "other_titles": [
+            "Nuovo Cinema Paradiso",
+            "星光伴我心(港)  /  新天堂乐园(台)"
+        ],
+        "director": "朱塞佩·托纳多雷 Giuseppe Tornatore",
+        "year": "1988",
+        "country": "意大利 法国",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "9.2",
+        "comments": "722437",
+        "quote": ""
+    },
+    {
+        "title": "饮食男女",
+        "other_titles": [
+            "飲食男女",
+            "Eat Drink Man Woman"
+        ],
+        "director": "李安 Ang Lee",
+        "year": "1994",
+        "country": "中国台湾 美国",
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "score": "9.2",
+        "comments": "690372",
+        "quote": ""
+    },
+    {
+        "title": "辩护人",
+        "other_titles": [
+            "변호인",
+            "逆权大状(港)  /  正义辩护人(台)"
+        ],
+        "director": "杨宇硕 Woo-seok Yang",
+        "year": "2013",
+        "country": "韩国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.2",
+        "comments": "640931",
+        "quote": "电影的现实意义大过电影本身。"
+    },
+    {
+        "title": "搏击俱乐部",
+        "other_titles": [
+            "Fight Club",
+            "搏击会(港)  /  斗阵俱乐部(台)"
+        ],
+        "director": "大卫·芬奇 David Fincher",
+        "year": "1999",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "动作",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "9.0",
+        "comments": "930964",
+        "quote": ""
+    },
+    {
+        "title": "本杰明·巴顿奇事",
+        "other_titles": [
+            "The Curious Case of Benjamin Button",
+            "奇幻逆缘(港)  /  班杰明的奇幻旅程(台)"
+        ],
+        "director": "大卫·芬奇 David Fincher",
+        "year": "2008",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "爱情",
+            "奇幻"
+        ],
+        "score": "9.0",
+        "comments": "1068591",
+        "quote": "在时间之河里感受溺水之苦。"
+    },
+    {
+        "title": "美丽心灵",
+        "other_titles": [
+            "A Beautiful Mind",
+            "有你终生美丽(港)  /  美丽境界(台)"
+        ],
+        "director": "朗·霍华德 Ron Howard",
+        "year": "2001",
+        "country": "美国",
+        "genre": [
+            "传记",
+            "剧情"
+        ],
+        "score": "9.1",
+        "comments": "831309",
+        "quote": ""
+    },
+    {
+        "title": "穿条纹睡衣的男孩",
+        "other_titles": [
+            "The Boy in the Striped Pajamas",
+            "穿条纹衣服的男孩  /  穿条纹衣的男孩"
+        ],
+        "director": "马克·赫尔曼 Mark Herman",
+        "year": "2008",
+        "country": "英国 美国",
+        "genre": [
+            "剧情",
+            "战争"
+        ],
+        "score": "9.2",
+        "comments": "621184",
+        "quote": "尽管有些不切实际的幻想，这部电影依旧是一部感人肺腑的佳作。"
+    },
+    {
+        "title": "情书",
+        "other_titles": [
+            "Love Letter",
+            "When I Close My Eyes  /  Letters of Love"
+        ],
+        "director": "岩井俊二 Shunji Iwai",
+        "year": "1995",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.9",
+        "comments": "1253336",
+        "quote": ""
+    },
+    {
+        "title": "窃听风暴",
+        "other_titles": [
+            "Das Leben der Anderen",
+            "窃听者(港)  /  他人的生活"
+        ],
+        "director": "弗洛里安·亨克尔·冯·多纳斯马尔克 Florian Henckel von Donnersmarck&n...",
+        "year": "2006",
+        "country": "德国",
+        "genre": [
+            "剧情",
+            "悬疑"
+        ],
+        "score": "9.2",
+        "comments": "614412",
+        "quote": "别样人生。"
+    },
+    {
+        "title": "两杆大烟枪",
+        "other_titles": [
+            "Lock, Stock and Two Smoking Barrels",
+            "够姜四小强(港)  /  两根枪管(台)"
+        ],
+        "director": "盖·里奇 Guy Ritchie",
+        "year": "1998",
+        "country": "英国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "犯罪"
+        ],
+        "score": "9.1",
+        "comments": "653128",
+        "quote": ""
+    },
+    {
+        "title": "哈利·波特与死亡圣器(下)",
+        "other_titles": [
+            "Harry Potter and the Deathly Hallows: Part 2",
+            "哈利波特7：死神的圣物2(港 / 台)"
+        ],
+        "director": "大卫·叶茨 David Yates",
+        "year": "2011",
+        "country": "美国 英国",
+        "genre": [
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.0",
+        "comments": "934196",
+        "quote": "10年的完美句点。"
+    },
+    {
+        "title": "音乐之声",
+        "other_titles": [
+            "The Sound of Music",
+            "仙乐飘飘处处闻(港)  /  真善美(台)"
+        ],
+        "director": "罗伯特·怀斯 Robert Wise",
+        "year": "1965",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "爱情",
+            "歌舞"
+        ],
+        "score": "9.1",
+        "comments": "660838",
+        "quote": ""
+    },
+    {
+        "title": "西西里的美丽传说",
+        "other_titles": [
+            "Malèna",
+            "真爱伴我行(台)  /  玛莲娜"
+        ],
+        "director": "朱塞佩·托纳多雷 Giuseppe Tornatore",
+        "year": "2000",
+        "country": "意大利 美国",
+        "genre": [
+            "剧情",
+            "战争",
+            "情色"
+        ],
+        "score": "8.9",
+        "comments": "1061824",
+        "quote": ""
+    },
+    {
+        "title": "功夫",
+        "other_titles": [
+            "功夫3D  /  Kung Fu Hustle"
+        ],
+        "director": "周星驰 Stephen Chow",
+        "year": "2004",
+        "country": "中国大陆 中国香港",
+        "genre": [
+            "动作",
+            "喜剧",
+            "犯罪",
+            "奇幻"
+        ],
+        "score": "8.9",
+        "comments": "1278383",
+        "quote": "警恶惩奸，维护世界和平这个任务就交给你了，好吗？"
+    },
+    {
+        "title": "阿凡达",
+        "other_titles": [
+            "Avatar",
+            ""
+        ],
+        "director": "詹姆斯·卡梅隆 James Cameron",
+        "year": "2009",
+        "country": "美国",
+        "genre": [
+            "动作",
+            "科幻",
+            "冒险"
+        ],
+        "score": "8.8",
+        "comments": "1529478",
+        "quote": "绝对意义上的美轮美奂。"
+    },
+    {
+        "title": "哈利·波特与阿兹卡班的囚徒",
+        "other_titles": [
+            "Harry Potter and the Prisoner of Azkaban",
+            "哈利波特3：阿兹卡班的逃犯(港 / 台)"
+        ],
+        "director": "阿方索·卡隆 Alfonso Cuarón",
+        "year": "2004",
+        "country": "英国 美国",
+        "genre": [
+            "奇幻",
+            "冒险"
+        ],
+        "score": "9.0",
+        "comments": "851232",
+        "quote": "不一样的导演，不一样的哈利·波特。"
+    },
+    {
+        "title": "看不见的客人",
+        "other_titles": [
+            "Contratiempo",
+            "死无对证(港)  /  布局(台)"
+        ],
+        "director": "奥里奥尔·保罗 Oriol Paulo",
+        "year": "2016",
+        "country": "西班牙",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.8",
+        "comments": "1393760",
+        "quote": "你以为你以为的就是你以为的。"
+    },
+    {
+        "title": "拯救大兵瑞恩",
+        "other_titles": [
+            "Saving Private Ryan",
+            "雷霆救兵(港)  /  抢救雷恩大兵(台)"
+        ],
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "year": "1998",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "战争"
+        ],
+        "score": "9.1",
+        "comments": "701846",
+        "quote": ""
+    },
+    {
+        "title": "小鞋子",
+        "other_titles": [
+            "بچه های آسمان",
+            "天堂的孩子  /  小童鞋"
+        ],
+        "director": "马基德·马基迪 Majid Majidi",
+        "year": "1997",
+        "country": "伊朗",
+        "genre": [
+            "剧情",
+            "儿童",
+            "家庭"
+        ],
+        "score": "9.2",
+        "comments": "448284",
+        "quote": ""
+    },
+    {
+        "title": "沉默的羔羊",
+        "other_titles": [
+            "The Silence of the Lambs",
+            "沉默的羔羊"
+        ],
+        "director": "乔纳森·戴米 Jonathan Demme",
+        "year": "1991",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "980451",
+        "quote": ""
+    },
+    {
+        "title": "飞越疯人院",
+        "other_titles": [
+            "One Flew Over the Cuckoo's Nest",
+            "飞越杜鹃窝(台)  /  飞越喜鹊巢"
+        ],
+        "director": "米洛斯·福尔曼 Miloš Forman",
+        "year": "1975",
+        "country": "美国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.1",
+        "comments": "587193",
+        "quote": ""
+    },
+    {
+        "title": "布达佩斯大饭店",
+        "other_titles": [
+            "The Grand Budapest Hotel",
+            "布达佩斯大酒店(港)  /  欢迎来到布达佩斯大饭店(台)"
+        ],
+        "director": "韦斯·安德森 Wes Anderson",
+        "year": "2014",
+        "country": "美国 德国 英国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "冒险"
+        ],
+        "score": "8.9",
+        "comments": "1044812",
+        "quote": "小清新的故事里注入了大历史的情怀。"
+    },
+    {
+        "title": "蝴蝶效应",
+        "other_titles": [
+            "The Butterfly Effect",
+            "蝴蝶效应"
+        ],
+        "director": "埃里克·布雷斯 Eric Bress / J·麦基·格鲁伯 J. Mackye Gruber主...",
+        "year": "2004",
+        "country": "美国 加拿大",
+        "genre": [
+            "剧情",
+            "悬疑",
+            "科幻",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "1029560",
+        "quote": "人的命运被自己瞬间的抉择改变。"
+    },
+    {
+        "title": "禁闭岛",
+        "other_titles": [
+            "Shutter Island",
+            "不赦岛(港)  /  隔离岛(台)"
+        ],
+        "director": "Martin Scorsese",
+        "year": "2010",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "1074179",
+        "quote": "昔日翩翩少年，今日大腹便便。"
+    },
+    {
+        "title": "致命魔术",
+        "other_titles": [
+            "The Prestige",
+            "死亡魔法(港)  /  顶尖对决(台)"
+        ],
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "year": "2006",
+        "country": "英国 美国",
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "935300",
+        "quote": "孪生蝙蝠侠大战克隆金刚狼。"
+    },
+    {
+        "title": "心灵捕手",
+        "other_titles": [
+            "Good Will Hunting",
+            "骄阳似我(港)  /  心灵捕手"
+        ],
+        "director": "格斯·范·桑特 Gus Van Sant",
+        "year": "1997",
+        "country": "美国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.0",
+        "comments": "789479",
+        "quote": ""
+    },
+    {
+        "title": "低俗小说",
+        "other_titles": [
+            "Pulp Fiction",
+            "危险人物(港)  /  黑色追缉令(台)"
+        ],
+        "director": "昆汀·塔伦蒂诺 Quentin Tarantino",
+        "year": "1994",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "犯罪"
+        ],
+        "score": "8.9",
+        "comments": "923643",
+        "quote": ""
+    },
+    {
+        "title": "超脱",
+        "other_titles": [
+            "Detachment",
+            "人间师格(台)"
+        ],
+        "director": "托尼·凯耶 Tony Kaye",
+        "year": "2011",
+        "country": "美国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.0",
+        "comments": "692504",
+        "quote": "穷尽一生，我们要学会的，不过是彼此拥抱。"
+    },
+    {
+        "title": "哈利·波特与密室",
+        "other_titles": [
+            "Harry Potter and the Chamber of Secrets",
+            "哈利波特2：消失的密室(港 / 台)"
+        ],
+        "director": "Chris Columbus",
+        "year": "2002",
+        "country": "英国 美国",
+        "genre": [
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.9",
+        "comments": "876934",
+        "quote": ""
+    },
+    {
+        "title": "摩登时代",
+        "other_titles": [
+            "Modern Times",
+            "The Masses  /  Les Temps modernes"
+        ],
+        "director": "查理·卓别林 Charles Chaplin",
+        "year": "1936",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "score": "9.3",
+        "comments": "333356",
+        "quote": ""
+    },
+    {
+        "title": "喜剧之王",
+        "other_titles": [
+            "喜劇之王",
+            "King of Comedy"
+        ],
+        "director": "周星驰 Stephen Chow / 李力持 Lik-Chi Lee",
+        "year": "1999",
+        "country": "中国香港",
+        "genre": [
+            "喜剧",
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.8",
+        "comments": "1057426",
+        "quote": ""
+    },
+    {
+        "title": "杀人回忆",
+        "other_titles": [
+            "살인의 추억",
+            "谋杀回忆  /  杀手回忆录"
+        ],
+        "director": "奉俊昊 Joon-ho Bong",
+        "year": "2003",
+        "country": "韩国",
+        "genre": [
+            "剧情",
+            "动作",
+            "犯罪",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "803474",
+        "quote": ""
+    },
+    {
+        "title": "致命ID",
+        "other_titles": [
+            "Identity",
+            "杀人游戏  /  致命身份"
+        ],
+        "director": "詹姆斯·曼高德 James Mangold",
+        "year": "2003",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "912530",
+        "quote": ""
+    },
+    {
+        "title": "春光乍泄",
+        "other_titles": [
+            "春光乍洩",
+            "一起快乐  /  Happy Together"
+        ],
+        "director": "王家卫 Kar Wai Wong",
+        "year": "1997",
+        "country": "中国香港 日本 韩国",
+        "genre": [
+            "剧情",
+            "爱情",
+            "同性"
+        ],
+        "score": "9.0",
+        "comments": "689196",
+        "quote": ""
+    },
+    {
+        "title": "海豚湾",
+        "other_titles": [
+            "The Cove",
+            "血色海湾(台)  /  海湾"
+        ],
+        "director": "路易·西霍尤斯 Louie Psihoyos",
+        "year": "2009",
+        "country": "美国",
+        "genre": [
+            "纪录片"
+        ],
+        "score": "9.3",
+        "comments": "375557",
+        "quote": "海豚的微笑，是世界上最高明的伪装。"
+    },
+    {
+        "title": "一一",
+        "other_titles": [
+            "Yi yi  /  Yi yi: A One and a Two"
+        ],
+        "director": "杨德昌 Edward Yang",
+        "year": "2000",
+        "country": "中国台湾 日本",
+        "genre": [
+            "剧情",
+            "爱情",
+            "家庭"
+        ],
+        "score": "9.1",
+        "comments": "467200",
+        "quote": ""
+    },
+    {
+        "title": "美国往事",
+        "other_titles": [
+            "Once Upon a Time in America",
+            "四海兄弟(台)  /  义薄云天(港)"
+        ],
+        "director": "赛尔乔·莱翁内 Sergio Leone",
+        "year": "1984",
+        "country": "美国 意大利",
+        "genre": [
+            "犯罪",
+            "剧情"
+        ],
+        "score": "9.1",
+        "comments": "455043",
+        "quote": ""
+    },
+    {
+        "title": "加勒比海盗",
+        "other_titles": [
+            "Pirates of the Caribbean: The Curse of the Black Pearl",
+            "加勒比海盗1：黑珍珠号的诅咒  /  神鬼奇航：鬼盗船魔咒(台)"
+        ],
+        "director": "戈尔·维宾斯基 Gore Verbinski",
+        "year": "2003",
+        "country": "美国",
+        "genre": [
+            "动作",
+            "冒险",
+            "奇幻"
+        ],
+        "score": "8.8",
+        "comments": "936836",
+        "quote": ""
+    },
+    {
+        "title": "红辣椒",
+        "other_titles": [
+            "パプリカ",
+            "盗梦侦探(港 / 台)"
+        ],
+        "director": "今敏 Satoshi Kon",
+        "year": "2006",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "悬疑",
+            "科幻",
+            "惊悚"
+        ],
+        "score": "9.0",
+        "comments": "540855",
+        "quote": "梦的勾结。"
+    },
+    {
+        "title": "七宗罪",
+        "other_titles": [
+            "Se7en",
+            "火线追缉令(台)  /  7宗罪"
+        ],
+        "director": "大卫·芬奇 David Fincher",
+        "year": "1995",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.8",
+        "comments": "1023256",
+        "quote": ""
+    },
+    {
+        "title": "唐伯虎点秋香",
+        "other_titles": [
+            "唐伯虎點秋香",
+            "Flirting Scholar"
+        ],
+        "director": "李力持 Lik-Chi Lee",
+        "year": "1993",
+        "country": "中国香港",
+        "genre": [
+            "喜剧",
+            "爱情",
+            "古装"
+        ],
+        "score": "8.7",
+        "comments": "1183941",
+        "quote": ""
+    },
+    {
+        "title": "狩猎",
+        "other_titles": [
+            "Jagten",
+            "诬网(港)  /  谎言的烙印(台)"
+        ],
+        "director": "托马斯·温特伯格 Thomas Vinterberg",
+        "year": "2012",
+        "country": "丹麦 瑞典",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.1",
+        "comments": "447461",
+        "quote": "人言可畏。"
+    },
+    {
+        "title": "还有明天",
+        "other_titles": [
+            "C'è ancora domani",
+            "明天还有梦(港)  /  我们还有明天(台)"
+        ],
+        "director": "宝拉·柯特莱西 Paola Cortellesi",
+        "year": "2023",
+        "country": "意大利",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "历史"
+        ],
+        "score": "9.4",
+        "comments": "273040",
+        "quote": ""
+    },
+    {
+        "title": "甜蜜蜜",
+        "other_titles": [
+            "Comrades: Almost a Love Story"
+        ],
+        "director": "陈可辛 Peter Chan",
+        "year": "1996",
+        "country": "中国香港",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.9",
+        "comments": "641459",
+        "quote": ""
+    },
+    {
+        "title": "7号房的礼物",
+        "other_titles": [
+            "7번방의 선물",
+            "戆爸的礼物(港)  /  7号囚房的礼物"
+        ],
+        "director": "李焕庆 Hwan-kyeong Lee",
+        "year": "2013",
+        "country": "韩国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "家庭"
+        ],
+        "score": "8.9",
+        "comments": "605184",
+        "quote": "《我是山姆》的《美丽人生》。"
+    },
+    {
+        "title": "蝙蝠侠：黑暗骑士崛起",
+        "other_titles": [
+            "The Dark Knight Rises",
+            "蝙蝠侠前传3：黑暗骑士崛起  /  黑暗骑士：黎明升起(台)"
+        ],
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "year": "2012",
+        "country": "美国 英国",
+        "genre": [
+            "剧情",
+            "动作",
+            "科幻",
+            "犯罪",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "787970",
+        "quote": "诺兰就是保证。"
+    },
+    {
+        "title": "幽灵公主",
+        "other_titles": [
+            "もののけ姫",
+            "魔法公主  /  幽灵少女"
+        ],
+        "director": "宫崎骏 Hayao Miyazaki",
+        "year": "1997",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.9",
+        "comments": "619873",
+        "quote": ""
+    },
+    {
+        "title": "寄生虫",
+        "other_titles": [
+            "기생충",
+            "寄生上流(台)  /  上流寄生族(港)"
+        ],
+        "director": "奉俊昊 Joon-ho Bong",
+        "year": "2019",
+        "country": "韩国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "8.8",
+        "comments": "1497027",
+        "quote": ""
+    },
+    {
+        "title": "天书奇谭",
+        "other_titles": [
+            "天书奇谭4K纪念版  /  The Legend of Sealed Book"
+        ],
+        "director": "王树忱 Shuchen Wang / 钱运达 Yunda Qian",
+        "year": "1983(中国大陆)",
+        "country": "2021",
+        "genre": [
+            "中国大陆"
+        ],
+        "score": "9.2",
+        "comments": "315068",
+        "quote": ""
+    },
+    {
+        "title": "超能陆战队",
+        "other_titles": [
+            "Big Hero 6",
+            "大英雄联盟(港)  /  大英雄天团(台)"
+        ],
+        "director": "唐·霍尔 Don Hall / 克里斯·威廉姆斯 Chris Williams",
+        "year": "2014",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动作",
+            "科幻",
+            "动画",
+            "冒险"
+        ],
+        "score": "8.8",
+        "comments": "1109498",
+        "quote": "Balalala~~~"
+    },
+    {
+        "title": "爱在黎明破晓前",
+        "other_titles": [
+            "Before Sunrise",
+            "情留半天(港)  /  爱在黎明破晓时(台)"
+        ],
+        "director": "理查德·林克莱特 Richard Linklater",
+        "year": "1995",
+        "country": "美国 奥地利 瑞士",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.8",
+        "comments": "765788",
+        "quote": ""
+    },
+    {
+        "title": "被嫌弃的松子的一生",
+        "other_titles": [
+            "嫌われ松子の一生",
+            "花样奇缘(港)  /  令人讨厌的松子的一生(台)"
+        ],
+        "director": "中岛哲也 Tetsuya Nakashima",
+        "year": "2006",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "歌舞"
+        ],
+        "score": "8.8",
+        "comments": "754544",
+        "quote": "以戏谑来戏谑戏谑。"
+    },
+    {
+        "title": "第六感",
+        "other_titles": [
+            "The Sixth Sense",
+            "鬼眼(港)  /  灵异第六感(台)"
+        ],
+        "director": "M·奈特·沙马兰 M. Night Shyamalan",
+        "year": "1999",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "614482",
+        "quote": ""
+    },
+    {
+        "title": "爱在日落黄昏时",
+        "other_titles": [
+            "Before Sunset",
+            "日落巴黎(港)  /  爱在日落巴黎时(台)"
+        ],
+        "director": "理查德·林克莱特 Richard Linklater",
+        "year": "2004",
+        "country": "美国 法国",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.9",
+        "comments": "627244",
+        "quote": "九年后的重逢是世俗和责任的交叠，没了悸动和青涩，沧桑而温暖。"
+    },
+    {
+        "title": "重庆森林",
+        "other_titles": [
+            "重慶森林",
+            "Chungking Express"
+        ],
+        "director": "王家卫 Kar Wai Wong",
+        "year": "1994",
+        "country": "中国香港",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.8",
+        "comments": "893288",
+        "quote": ""
+    },
+    {
+        "title": "入殓师",
+        "other_titles": [
+            "おくりびと",
+            "礼仪师之奏鸣曲(港)  /  礼仪师(台)"
+        ],
+        "director": "泷田洋二郎 Yôjirô Takita",
+        "year": "2008",
+        "country": "日本",
+        "genre": [
+            "剧情"
+        ],
+        "score": "8.9",
+        "comments": "727108",
+        "quote": "死可能是一道门，逝去并不是终结，而是超越，走向下一程。"
+    },
+    {
+        "title": "剪刀手爱德华",
+        "other_titles": [
+            "Edward Scissorhands",
+            "幻海奇缘(港)  /  剪刀手爱德华"
+        ],
+        "director": "蒂姆·波顿 Tim Burton",
+        "year": "1990",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "爱情",
+            "奇幻"
+        ],
+        "score": "8.7",
+        "comments": "1098228",
+        "quote": ""
+    },
+    {
+        "title": "断背山",
+        "other_titles": [
+            "Brokeback Mountain",
+            "断臂山  /  BBM"
+        ],
+        "director": "李安 Ang Lee",
+        "year": "2005",
+        "country": "美国 加拿大",
+        "genre": [
+            "剧情",
+            "爱情",
+            "同性",
+            "家庭"
+        ],
+        "score": "8.8",
+        "comments": "759522",
+        "quote": "每个人心中都有一座断背山。"
+    },
+    {
+        "title": "菊次郎的夏天",
+        "other_titles": [
+            "菊次郎の夏",
+            "菊次郎之夏  /  Kikujirô no natsu"
+        ],
+        "director": "北野武 Takeshi Kitano",
+        "year": "1999",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "score": "8.9",
+        "comments": "653795",
+        "quote": ""
+    },
+    {
+        "title": "勇敢的心",
+        "other_titles": [
+            "Braveheart",
+            "惊世未了缘(港)  /  梅尔吉勃逊之英雄本色(台)"
+        ],
+        "director": "梅尔·吉布森 Mel Gibson",
+        "year": "1995",
+        "country": "美国",
+        "genre": [
+            "动作",
+            "传记",
+            "剧情",
+            "历史",
+            "战争"
+        ],
+        "score": "8.9",
+        "comments": "592620",
+        "quote": ""
+    },
+    {
+        "title": "未麻的部屋",
+        "other_titles": [
+            "Perfect Blue",
+            "蓝色恐惧(港 / 台)"
+        ],
+        "director": "今敏 Satoshi Kon",
+        "year": "1997",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "动画",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "9.1",
+        "comments": "402692",
+        "quote": ""
+    },
+    {
+        "title": "哈利·波特与火焰杯",
+        "other_titles": [
+            "Harry Potter and the Goblet of Fire",
+            "哈利波特4：火杯的考验(港 / 台)"
+        ],
+        "director": "迈克·内威尔 Mike Newell",
+        "year": "2005",
+        "country": "英国 美国",
+        "genre": [
+            "悬疑",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.8",
+        "comments": "766577",
+        "quote": ""
+    },
+    {
+        "title": "借东西的小人阿莉埃蒂",
+        "other_titles": [
+            "借りぐらしのアリエッティ",
+            "借物少女艾莉缇(台)  /  借东西的小矮人亚莉亚蒂(港)"
+        ],
+        "director": "米林宏昌 Hiromasa Yonebayashi",
+        "year": "2010",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.9",
+        "comments": "607250",
+        "quote": "曾经的那段美好会沉淀为一辈子的记忆。"
+    },
+    {
+        "title": "茶馆",
+        "other_titles": [
+            "The Teahouse"
+        ],
+        "director": "谢添 Tian Xie",
+        "year": "1982(中国大陆)",
+        "country": "中国大陆",
+        "genre": [
+            "剧情",
+            "历史"
+        ],
+        "score": "9.6",
+        "comments": "190791",
+        "quote": ""
+    },
+    {
+        "title": "头脑特工队",
+        "other_titles": [
+            "Inside Out",
+            "玩转脑朋友(港)  /  脑筋急转弯(台)"
+        ],
+        "director": "彼特·道格特 Pete Docter / 罗纳尔多·德尔·卡门 Ronaldo Del Carmen&nb...",
+        "year": "2015",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "score": "8.8",
+        "comments": "761510",
+        "quote": "愿我们都不用长大，每一座城堡都能永远存在。"
+    },
+    {
+        "title": "时空恋旅人",
+        "other_titles": [
+            "About Time",
+            "回到最爱的一天(港)  /  真爱每一天(台)"
+        ],
+        "director": "理查德·柯蒂斯 Richard Curtis",
+        "year": "2013",
+        "country": "英国 美国",
+        "genre": [
+            "喜剧",
+            "爱情",
+            "奇幻"
+        ],
+        "score": "8.8",
+        "comments": "757777",
+        "quote": "把每天当作最后一天般珍惜度过，积极拥抱生活，就是幸福。"
+    },
+    {
+        "title": "消失的爱人",
+        "other_titles": [
+            "Gone Girl",
+            "失踪的女孩  /  失踪女孩"
+        ],
+        "director": "大卫·芬奇 David Fincher",
+        "year": "2014",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.7",
+        "comments": "1042309",
+        "quote": "年度最佳date movie。"
+    },
+    {
+        "title": "无人知晓",
+        "other_titles": [
+            "誰も知らない",
+            "谁知赤子心(港)  /  无人知晓的夏日清晨(台)"
+        ],
+        "director": "是枝裕和 Hirokazu Koreeda",
+        "year": "2004",
+        "country": "日本",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.1",
+        "comments": "359825",
+        "quote": "我的平常生活就是他人的幸福。"
+    },
+    {
+        "title": "倩女幽魂",
+        "other_titles": [
+            "倩女幽魂(87版)  /  倩女幽魂：妖魔道"
+        ],
+        "director": "程小东 Siu-Tung Ching",
+        "year": "1987",
+        "country": "中国香港",
+        "genre": [
+            "爱情",
+            "奇幻",
+            "武侠",
+            "古装"
+        ],
+        "score": "8.8",
+        "comments": "813384",
+        "quote": ""
+    },
+    {
+        "title": "完美的世界",
+        "other_titles": [
+            "A Perfect World",
+            "强盗保镳"
+        ],
+        "director": "克林特·伊斯特伍德 Clint Eastwood",
+        "year": "1993",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "9.1",
+        "comments": "348533",
+        "quote": ""
+    },
+    {
+        "title": "阳光灿烂的日子",
+        "other_titles": [
+            "In the Heat of the Sun"
+        ],
+        "director": "姜文 Wen Jiang",
+        "year": "1994",
+        "country": "中国大陆 中国香港",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.8",
+        "comments": "672592",
+        "quote": ""
+    },
+    {
+        "title": "花样年华",
+        "other_titles": [
+            "花樣年華",
+            "花样年华导演特别版  /  花样年华4K修复版"
+        ],
+        "director": "王家卫 Kar Wai Wong",
+        "year": "2000",
+        "country": "中国香港",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.8",
+        "comments": "762522",
+        "quote": ""
+    },
+    {
+        "title": "小森林 夏秋篇",
+        "other_titles": [
+            "リトル・フォレスト 夏・秋",
+            "小森食光 / 夏秋篇(台)"
+        ],
+        "director": "森淳一 Junichi Mori",
+        "year": "2014",
+        "country": "日本",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.0",
+        "comments": "460075",
+        "quote": "那些静得只能听见呼吸的日子里，你明白孤独即生活。"
+    },
+    {
+        "title": "驯龙高手",
+        "other_titles": [
+            "How to Train Your Dragon",
+            "驯龙记(港)"
+        ],
+        "director": "迪恩·德布洛斯 Dean DeBlois / 克里斯·桑德斯 Chris Sanders",
+        "year": "2010",
+        "country": "美国",
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.8",
+        "comments": "826269",
+        "quote": "和谐的生活离不开摸头与被摸头。"
+    },
+    {
+        "title": "天使爱美丽",
+        "other_titles": [
+            "Le Fabuleux destin d'Amélie Poulain",
+            "艾蜜莉的异想世界(台)  /  天使艾米莉"
+        ],
+        "director": "让-皮埃尔·热内 Jean-Pierre Jeunet",
+        "year": "2001",
+        "country": "法国 德国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "score": "8.7",
+        "comments": "1002618",
+        "quote": ""
+    },
+    {
+        "title": "新世界",
+        "other_titles": [
+            "신세계",
+            "暗黑新世界(台)  /  New World"
+        ],
+        "director": "朴勋政 Hoon-jung Park",
+        "year": "2013",
+        "country": "韩国",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "8.9",
+        "comments": "504402",
+        "quote": "要做就做得狠一点，这样才能活下去。"
+    },
+    {
+        "title": "傲慢与偏见",
+        "other_titles": [
+            "Pride & Prejudice",
+            "傲慢与偏见2005  /  Pride And Prejudice"
+        ],
+        "director": "乔·怀特 Joe Wright",
+        "year": "2005",
+        "country": "法国 英国 美国",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.7",
+        "comments": "889838",
+        "quote": "爱是摈弃傲慢与偏见之后的曙光。"
+    },
+    {
+        "title": "侧耳倾听",
+        "other_titles": [
+            "耳をすませば",
+            "心之谷(台)  /  梦幻街少女(港)"
+        ],
+        "director": "近藤喜文 Yoshifumi Kondo",
+        "year": "1995",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "爱情",
+            "动画"
+        ],
+        "score": "8.9",
+        "comments": "505804",
+        "quote": ""
+    },
+    {
+        "title": "一个叫欧维的男人决定去死",
+        "other_titles": [
+            "En man som heter Ove",
+            "明天别再来敲门(台)  /  想死冇咁易(港)"
+        ],
+        "director": "汉内斯·赫尔姆 Hannes Holm",
+        "year": "2015",
+        "country": "瑞典",
+        "genre": [
+            "剧情"
+        ],
+        "score": "8.9",
+        "comments": "544152",
+        "quote": "惠及一生的美丽。"
+    },
+    {
+        "title": "怪兽电力公司",
+        "other_titles": [
+            "Monsters, Inc.",
+            "怪兽公司(港)  /  怪物公司"
+        ],
+        "director": "彼特·道格特 Pete Docter / 大卫·斯沃曼 David Silverman",
+        "year": "2001",
+        "country": "美国",
+        "genre": [
+            "儿童",
+            "喜剧",
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.8",
+        "comments": "743835",
+        "quote": ""
+    },
+    {
+        "title": "玩具总动员3",
+        "other_titles": [
+            "Toy Story 3",
+            "反斗奇兵3(港)  /  玩具的故事3"
+        ],
+        "director": "李·昂克里奇 Lee Unkrich",
+        "year": "2010",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.9",
+        "comments": "571049",
+        "quote": "跨度十五年的欢乐与泪水。"
+    },
+    {
+        "title": "请以你的名字呼唤我",
+        "other_titles": [
+            "Call Me by Your Name",
+            "以你的名字呼唤我(港 / 台)"
+        ],
+        "director": "卢卡·瓜达尼诺 Luca Guadagnino",
+        "year": "2017",
+        "country": "意大利 法国 巴西 美国",
+        "genre": [
+            "剧情",
+            "爱情",
+            "同性"
+        ],
+        "score": "8.8",
+        "comments": "796298",
+        "quote": "沉醉在电影的情感和视听氛围中无法自拔。"
+    },
+    {
+        "title": "教父3",
+        "other_titles": [
+            "The Godfather: Part III",
+            "教父第三集  /  教父 III"
+        ],
+        "director": "弗朗西斯·福特·科波拉 Francis Ford Coppola",
+        "year": "1990",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "9.0",
+        "comments": "415292",
+        "quote": ""
+    },
+    {
+        "title": "幸福终点站",
+        "other_titles": [
+            "The Terminal",
+            "机场客运站(港)  /  航站情缘(台)"
+        ],
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "year": "2004",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.8",
+        "comments": "621860",
+        "quote": "有时候幸福需要等一等。"
+    },
+    {
+        "title": "色，戒",
+        "other_titles": [
+            "色|戒  /  色·戒"
+        ],
+        "director": "李安 Ang Lee",
+        "year": "2007",
+        "country": "中国台湾 中国大陆 美国 中国香港",
+        "genre": [
+            "剧情",
+            "爱情",
+            "情色"
+        ],
+        "score": "8.7",
+        "comments": "922184",
+        "quote": "假戏真情，爱欲深海"
+    },
+    {
+        "title": "哪吒闹海",
+        "other_titles": [
+            "Prince Nezha's Triumph Against Dragon King  /  Nezha Conquers the Dragon King"
+        ],
+        "director": "王树忱 Shuchen Wang / 严定宪 Dingxian Yan",
+        "year": "1979",
+        "country": "中国大陆",
+        "genre": [
+            "冒险",
+            "动画",
+            "奇幻"
+        ],
+        "score": "9.2",
+        "comments": "296088",
+        "quote": ""
+    },
+    {
+        "title": "被解救的姜戈",
+        "other_titles": [
+            "Django Unchained",
+            "被解放的姜戈  /  决杀令(台)"
+        ],
+        "director": "昆汀·塔伦蒂诺 Quentin Tarantino",
+        "year": "2012",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "动作",
+            "西部",
+            "冒险"
+        ],
+        "score": "8.8",
+        "comments": "667817",
+        "quote": "热血沸腾，那个低俗、性感的无耻混蛋又来了。"
+    },
+    {
+        "title": "小森林 冬春篇",
+        "other_titles": [
+            "リトル・フォレスト 冬・春",
+            "小森食光 / 冬春篇(台)"
+        ],
+        "director": "森淳一 Junichi Mori",
+        "year": "2015",
+        "country": "日本",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.0",
+        "comments": "409396",
+        "quote": "尊敬他人，尊敬你生活的这片土地，明白孤独是人生的常态。"
+    },
+    {
+        "title": "九品芝麻官",
+        "other_titles": [
+            "九品芝麻官之白面包青天  /  Hail the Judge"
+        ],
+        "director": "王晶 Jing Wong",
+        "year": "1994",
+        "country": "中国香港",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "古装"
+        ],
+        "score": "8.8",
+        "comments": "763431",
+        "quote": ""
+    },
+    {
+        "title": "釜山行",
+        "other_titles": [
+            "부산행",
+            "尸杀列车(港)  /  尸速列车(台)"
+        ],
+        "director": "延尚昊 Sang-ho Yeon",
+        "year": "2016",
+        "country": "韩国",
+        "genre": [
+            "动作",
+            "惊悚",
+            "灾难"
+        ],
+        "score": "8.6",
+        "comments": "1310031",
+        "quote": "揭露人性的丧尸题材力作。"
+    },
+    {
+        "title": "神偷奶爸",
+        "other_titles": [
+            "Despicable Me",
+            "卑鄙的我  /  坏蛋奖门人(港)"
+        ],
+        "director": "皮艾尔·柯芬 Pierre Coffin / 克里斯·雷纳德 Chris Renaud",
+        "year": "2010",
+        "country": "美国 法国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "score": "8.7",
+        "comments": "1020920",
+        "quote": "Mr. I Don't Care其实也有Care的时候。"
+    },
+    {
+        "title": "萤火之森",
+        "other_titles": [
+            "蛍火の杜へ",
+            "萤火之社  /  Hotarubi no mori e"
+        ],
+        "director": "大森贵弘 Takahiro Omori",
+        "year": "2011",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "爱情",
+            "动画",
+            "奇幻"
+        ],
+        "score": "8.8",
+        "comments": "591046",
+        "quote": "触不到的恋人。"
+    },
+    {
+        "title": "喜宴",
+        "other_titles": [
+            "囍宴",
+            "The Wedding Banquet"
+        ],
+        "director": "李安 Ang Lee",
+        "year": "1993",
+        "country": "中国台湾 美国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情",
+            "同性",
+            "家庭"
+        ],
+        "score": "9.0",
+        "comments": "410676",
+        "quote": ""
+    },
+    {
+        "title": "告白",
+        "other_titles": [
+            "自白  /  母亲"
+        ],
+        "director": "中岛哲也 Tetsuya Nakashima",
+        "year": "2010",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "悬疑"
+        ],
+        "score": "8.8",
+        "comments": "721922",
+        "quote": "没有一人完全善，也没有一人完全恶。"
+    },
+    {
+        "title": "玛丽和马克思",
+        "other_titles": [
+            "Mary and Max",
+            "巧克力情缘(台)  /  同是天涯寂寞客"
+        ],
+        "director": "亚当·艾略特 Adam Elliot",
+        "year": "2009",
+        "country": "澳大利亚 美国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动画"
+        ],
+        "score": "9.0",
+        "comments": "448515",
+        "quote": "你是我最好的朋友，你是我唯一的朋友 。"
+    },
+    {
+        "title": "头号玩家",
+        "other_titles": [
+            "Ready Player One",
+            "玩家一号  /  挑战者1号(港)"
+        ],
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "year": "2018",
+        "country": "美国",
+        "genre": [
+            "动作",
+            "科幻",
+            "冒险"
+        ],
+        "score": "8.6",
+        "comments": "1473872",
+        "quote": "写给影迷，动漫迷和游戏迷的一封情书。"
+    },
+    {
+        "title": "模仿游戏",
+        "other_titles": [
+            "The Imitation Game",
+            "解码游戏(港)  /  模拟游戏"
+        ],
+        "director": "莫滕·泰杜姆 Morten Tyldum",
+        "year": "2014",
+        "country": "英国 美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "战争",
+            "同性"
+        ],
+        "score": "8.8",
+        "comments": "703184",
+        "quote": "他给机器起名“克里斯托弗”，因为这是他初恋的名字。"
+    },
+    {
+        "title": "大鱼",
+        "other_titles": [
+            "Big Fish",
+            "大鱼奇缘(港)  /  大智若鱼(台)"
+        ],
+        "director": "蒂姆·波顿 Tim Burton",
+        "year": "2003",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "爱情",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.8",
+        "comments": "610405",
+        "quote": ""
+    },
+    {
+        "title": "七武士",
+        "other_titles": [
+            "七人の侍",
+            "七侠四义(港)  /  七剑客(港)"
+        ],
+        "director": "黑泽明 Akira Kurosawa",
+        "year": "1954",
+        "country": "日本",
+        "genre": [
+            "动作",
+            "冒险",
+            "剧情"
+        ],
+        "score": "9.3",
+        "comments": "222956",
+        "quote": ""
+    },
+    {
+        "title": "惊魂记",
+        "other_titles": [
+            "Psycho",
+            "精神病患者  /  触目惊心(港)"
+        ],
+        "director": "阿尔弗雷德·希区柯克 Alfred Hitchcock",
+        "year": "1960",
+        "country": "美国",
+        "genre": [
+            "悬疑",
+            "惊悚",
+            "恐怖"
+        ],
+        "score": "9.0",
+        "comments": "339335",
+        "quote": ""
+    },
+    {
+        "title": "射雕英雄传之东成西就",
+        "other_titles": [
+            "射鵰英雄傳之東成西就",
+            "东成西就  /  大英雄 (日本)"
+        ],
+        "director": "刘镇伟 Jeffrey Lau",
+        "year": "1993",
+        "country": "中国香港",
+        "genre": [
+            "喜剧",
+            "奇幻",
+            "武侠",
+            "古装"
+        ],
+        "score": "8.7",
+        "comments": "697935",
+        "quote": ""
+    },
+    {
+        "title": "血战钢锯岭",
+        "other_titles": [
+            "Hacksaw Ridge",
+            "钢锯岭  /  钢铁英雄(台)"
+        ],
+        "director": "梅尔·吉布森 Mel Gibson",
+        "year": "2016",
+        "country": "澳大利亚 美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "历史",
+            "战争"
+        ],
+        "score": "8.7",
+        "comments": "838051",
+        "quote": "优秀的战争片不会美化战场，不会粉饰死亡，不会矮化敌人，不会无视常识，最重要的，不会宣扬战争。"
+    },
+    {
+        "title": "我是山姆",
+        "other_titles": [
+            "I Am Sam",
+            "不一样的爸爸(港)  /  他不笨，他是我爸爸(台)"
+        ],
+        "director": "杰茜·尼尔森 Jessie Nelson",
+        "year": "2001",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "score": "9.0",
+        "comments": "365845",
+        "quote": ""
+    },
+    {
+        "title": "你的名字。",
+        "other_titles": [
+            "君の名は。",
+            "你的名字  /  君之名"
+        ],
+        "director": "新海诚 Makoto Shinkai",
+        "year": "2016",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "爱情",
+            "动画"
+        ],
+        "score": "8.5",
+        "comments": "1546579",
+        "quote": "穿越错位的时空，仰望陨落的星辰，你没留下你的名字，我却无法忘记那句“我爱你”。"
+    },
+    {
+        "title": "阳光姐妹淘",
+        "other_titles": [
+            "써니",
+            "阳光姊妹淘(港)  /  桑尼"
+        ],
+        "director": "姜炯哲 Hyeong-Cheol Kang",
+        "year": "2011",
+        "country": "韩国",
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "score": "8.8",
+        "comments": "623418",
+        "quote": "再多各自牛逼的时光，也比不上一起傻逼的岁月。"
+    },
+    {
+        "title": "恐怖直播",
+        "other_titles": [
+            "더 테러 라이브",
+            "死亡“动”新闻(港)  /  恐怖攻击直播(台)"
+        ],
+        "director": "金秉祐 Byeong-woo Kim",
+        "year": "2013",
+        "country": "韩国",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "悬疑"
+        ],
+        "score": "8.7",
+        "comments": "708925",
+        "quote": "恐怖分子的“秋菊打官司”。"
+    },
+    {
+        "title": "黑客帝国3：矩阵革命",
+        "other_titles": [
+            "The Matrix Revolutions",
+            "22世纪杀人网络3：惊变世纪(港)  /  骇客任务完结篇：最后战役(台)"
+        ],
+        "director": "拉娜·沃卓斯基 Lana Wachowski / 莉莉·沃卓斯基 Lilly Wachowski...",
+        "year": "2003",
+        "country": "美国",
+        "genre": [
+            "动作",
+            "科幻"
+        ],
+        "score": "8.8",
+        "comments": "483355",
+        "quote": ""
+    },
+    {
+        "title": "背靠背，脸对脸",
+        "other_titles": [
+            "背对背，脸对脸  /  Back to Back, Face to Face"
+        ],
+        "director": "黄建新 Jianxin Huang / 杨亚洲 Yazhou Yang",
+        "year": "1994",
+        "country": "中国大陆 中国香港",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.5",
+        "comments": "166833",
+        "quote": ""
+    },
+    {
+        "title": "心灵奇旅",
+        "other_titles": [
+            "Soul",
+            "灵魂奇遇记(港)  /  灵魂急转弯(台)"
+        ],
+        "director": "彼特·道格特 Pete Docter / 凯普·鲍尔斯 Kemp Powers",
+        "year": "2020",
+        "country": "美国",
+        "genre": [
+            "动画",
+            "奇幻",
+            "音乐"
+        ],
+        "score": "8.7",
+        "comments": "1096211",
+        "quote": ""
+    },
+    {
+        "title": "电锯惊魂",
+        "other_titles": [
+            "Saw",
+            "恐惧斗室(港)  /  夺魂锯(台)"
+        ],
+        "director": "詹姆斯·温 James Wan",
+        "year": "2004",
+        "country": "美国",
+        "genre": [
+            "悬疑",
+            "惊悚",
+            "恐怖"
+        ],
+        "score": "8.7",
+        "comments": "590531",
+        "quote": "真相就在眼前。"
+    },
+    {
+        "title": "三块广告牌",
+        "other_titles": [
+            "Three Billboards Outside Ebbing, Missouri",
+            "广告牌杀人事件(港)  /  意外(台)"
+        ],
+        "director": "马丁·麦克唐纳 Martin McDonagh",
+        "year": "2017",
+        "country": "英国 美国",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "8.7",
+        "comments": "893843",
+        "quote": "怼天怼地，你走后，她与世界为敌。"
+    },
+    {
+        "title": "小丑",
+        "other_titles": [
+            "Joker",
+            "小丑起源电影：罗密欧  /  Romeo"
+        ],
+        "director": "托德·菲利普斯 Todd Phillips",
+        "year": "2019",
+        "country": "美国 加拿大",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "惊悚"
+        ],
+        "score": "8.7",
+        "comments": "1099790",
+        "quote": ""
+    },
+    {
+        "title": "达拉斯买家俱乐部",
+        "other_titles": [
+            "Dallas Buyers Club",
+            "续命枭雄(港)  /  药命俱乐部(台)"
+        ],
+        "director": "让-马克·瓦雷 Jean-Marc Vallée",
+        "year": "2013",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "同性"
+        ],
+        "score": "8.8",
+        "comments": "491980",
+        "quote": "Jared Leto的腿比女人还美！"
+    },
+    {
+        "title": "谍影重重3",
+        "other_titles": [
+            "The Bourne Ultimatum",
+            "叛谍追击3：最后通牒(港)  /  神鬼认证：最后通牒 (台)"
+        ],
+        "director": "保罗·格林格拉斯 Paul Greengrass",
+        "year": "2007",
+        "country": "美国 德国 法国 英国",
+        "genre": [
+            "动作",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.9",
+        "comments": "455343",
+        "quote": "像吃了苏打饼一样干脆的电影。"
+    },
+    {
+        "title": "疯狂原始人",
+        "other_titles": [
+            "The Croods",
+            "古鲁家族(港 / 台)"
+        ],
+        "director": "科克·德·米科 Kirk De Micco / 克里斯·桑德斯 Chris Sanders",
+        "year": "2013",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "score": "8.7",
+        "comments": "898911",
+        "quote": "老少皆宜，这就是好莱坞动画的魅力。"
+    },
+    {
+        "title": "绿里奇迹",
+        "other_titles": [
+            "The Green Mile",
+            "绿色奇迹(台)  /  绿色英里"
+        ],
+        "director": "弗兰克·德拉邦特 Frank Darabont",
+        "year": "1999",
+        "country": "美国",
+        "genre": [
+            "犯罪",
+            "剧情",
+            "奇幻",
+            "悬疑"
+        ],
+        "score": "8.9",
+        "comments": "373933",
+        "quote": ""
+    },
+    {
+        "title": "无间道2",
+        "other_titles": [
+            "無間道II",
+            "无间道前传  /  Infernal Affairs II"
+        ],
+        "director": "刘伟强 Andrew Lau / 麦兆辉 Alan Mak",
+        "year": "2003",
+        "country": "中国香港",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "惊悚"
+        ],
+        "score": "8.8",
+        "comments": "544483",
+        "quote": ""
+    },
+    {
+        "title": "爱在午夜降临前",
+        "other_titles": [
+            "Before Midnight",
+            "情约半生(港)  /  爱在午夜希腊时(台)"
+        ],
+        "director": "理查德·林克莱特 Richard Linklater",
+        "year": "2013",
+        "country": "美国 希腊",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.9",
+        "comments": "453551",
+        "quote": "所谓爱情，就是话唠一路，都不会心生腻烦，彼此嫌弃。"
+    },
+    {
+        "title": "海街日记",
+        "other_titles": [
+            "海街diary",
+            "海街女孩日记(港)  /  Kamakura Diary"
+        ],
+        "director": "是枝裕和 Hirokazu Koreeda",
+        "year": "2015",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "score": "8.8",
+        "comments": "501960",
+        "quote": "是枝裕和的家庭习作。"
+    },
+    {
+        "title": "上帝之城",
+        "other_titles": [
+            "Cidade de Deus",
+            "无主之城(港)  /  无法无天(台)"
+        ],
+        "director": "费尔南多·梅里尔斯 Fernando Meirelles / 卡迪亚·兰德 Kátia Lund&nbsp...",
+        "year": "2002",
+        "country": "巴西 法国",
+        "genre": [
+            "犯罪",
+            "剧情"
+        ],
+        "score": "9.0",
+        "comments": "324842",
+        "quote": ""
+    },
+    {
+        "title": "风之谷",
+        "other_titles": [
+            "風の谷のナウシカ",
+            "风谷少女  /  Kaze no tani no Naushika"
+        ],
+        "director": "宫崎骏 Hayao Miyazaki",
+        "year": "1984",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.9",
+        "comments": "383454",
+        "quote": ""
+    },
+    {
+        "title": "英雄本色",
+        "other_titles": [
+            "A Better Tomorrow  /  Gangland Boss"
+        ],
+        "director": "吴宇森 John Woo",
+        "year": "1986",
+        "country": "中国香港",
+        "genre": [
+            "剧情",
+            "动作",
+            "犯罪"
+        ],
+        "score": "8.6",
+        "comments": "589746",
+        "quote": ""
+    },
+    {
+        "title": "疯狂的石头",
+        "other_titles": [
+            "Crazy Stone"
+        ],
+        "director": "宁浩 Hao Ning",
+        "year": "2006",
+        "country": "中国大陆 中国香港",
+        "genre": [
+            "喜剧",
+            "犯罪"
+        ],
+        "score": "8.6",
+        "comments": "898169",
+        "quote": "中国版《两杆大烟枪》。"
+    },
+    {
+        "title": "雨中曲",
+        "other_titles": [
+            "Singin' in the Rain",
+            "万花嬉春(港 / 台)"
+        ],
+        "director": "斯坦利·多南 Stanley Donen / 吉恩·凯利 Gene Kelly",
+        "year": "1952",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "歌舞",
+            "爱情"
+        ],
+        "score": "9.1",
+        "comments": "256632",
+        "quote": ""
+    },
+    {
+        "title": "心迷宫",
+        "other_titles": [
+            "殡棺  /  The Coffin in the Mountain"
+        ],
+        "director": "忻钰坤 Yukun Xin",
+        "year": "2014",
+        "country": "中国大陆",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "悬疑"
+        ],
+        "score": "8.7",
+        "comments": "591886",
+        "quote": "荒诞讽刺，千奇百巧，抽丝剥茧，百转千回。"
+    },
+    {
+        "title": "2001太空漫游",
+        "other_titles": [
+            "2001: A Space Odyssey",
+            "2001：星际漫游  /  2001：太空奥德赛"
+        ],
+        "director": "斯坦利·库布里克 Stanley Kubrick",
+        "year": "1968",
+        "country": "英国 美国",
+        "genre": [
+            "科幻",
+            "惊悚",
+            "冒险"
+        ],
+        "score": "8.9",
+        "comments": "376477",
+        "quote": ""
+    },
+    {
+        "title": "纵横四海",
+        "other_titles": [
+            "緃横四海",
+            "Once a Thief"
+        ],
+        "director": "吴宇森 John Woo",
+        "year": "1991",
+        "country": "中国香港",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动作",
+            "犯罪"
+        ],
+        "score": "8.8",
+        "comments": "462319",
+        "quote": ""
+    },
+    {
+        "title": "记忆碎片",
+        "other_titles": [
+            "Memento",
+            "凶心人(港)  /  记忆拼图(台)"
+        ],
+        "director": "克里斯托弗·诺兰 Christopher Nolan",
+        "year": "2000",
+        "country": "美国",
+        "genre": [
+            "犯罪",
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.7",
+        "comments": "651296",
+        "quote": ""
+    },
+    {
+        "title": "卢旺达饭店",
+        "other_titles": [
+            "Hotel Rwanda",
+            "卢安达饭店(台)"
+        ],
+        "director": "特瑞·乔治 Terry George",
+        "year": "2004",
+        "country": "英国 南非 意大利 美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "历史",
+            "战争"
+        ],
+        "score": "8.9",
+        "comments": "357824",
+        "quote": "当这个世界闭上双眼，他却敞开了怀抱。"
+    },
+    {
+        "title": "末路狂花",
+        "other_titles": [
+            "Thelma & Louise",
+            "塞尔玛与路易丝  /  末路狂花"
+        ],
+        "director": "雷德利·斯科特 Ridley Scott",
+        "year": "1991",
+        "country": "美国 英国 法国",
+        "genre": [
+            "犯罪",
+            "剧情",
+            "惊悚"
+        ],
+        "score": "9.0",
+        "comments": "319117",
+        "quote": ""
+    },
+    {
+        "title": "无敌破坏王",
+        "other_titles": [
+            "Wreck-It Ralph",
+            "破坏王拉尔夫  /  破坏王大冒险"
+        ],
+        "director": "瑞奇·莫尔 Rich Moore",
+        "year": "2012",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.7",
+        "comments": "593796",
+        "quote": "迪士尼和皮克斯拿错剧本的产物。"
+    },
+    {
+        "title": "高山下的花环",
+        "other_titles": [
+            "卫国军魂(港)  /  Wreaths at the Foot of the Mountain"
+        ],
+        "director": "谢晋 Jin Xie",
+        "year": "1984(中国大陆)",
+        "country": "1985",
+        "genre": [
+            "中国大陆"
+        ],
+        "score": "9.5",
+        "comments": "139706",
+        "quote": ""
+    },
+    {
+        "title": "小偷家族",
+        "other_titles": [
+            "万引き家族",
+            "Shoplifters  /  Une Affaire de Famille"
+        ],
+        "director": "是枝裕和 Hirokazu Koreeda",
+        "year": "2018",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "家庭"
+        ],
+        "score": "8.7",
+        "comments": "876331",
+        "quote": "我们组成了家。"
+    },
+    {
+        "title": "冰川时代",
+        "other_titles": [
+            "Ice Age",
+            "冰河世纪  /  冰原历险记"
+        ],
+        "director": "卡洛斯·沙尔丹哈 Carlos Saldanha / 克里斯·韦奇 Chris Wedge",
+        "year": "2002",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "冒险"
+        ],
+        "score": "8.6",
+        "comments": "667599",
+        "quote": ""
+    },
+    {
+        "title": "恐怖游轮",
+        "other_titles": [
+            "Triangle",
+            "汪洋血迷宮(台)  /  轮回三角"
+        ],
+        "director": "克里斯托弗·史密斯 Christopher Smith",
+        "year": "2009",
+        "country": "英国 澳大利亚",
+        "genre": [
+            "剧情",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.5",
+        "comments": "955981",
+        "quote": "不要企图在重复中寻找已经失去的爱。"
+    },
+    {
+        "title": "东京教父",
+        "other_titles": [
+            "東京ゴッドファーザーズ",
+            "Tokyo Godfathers"
+        ],
+        "director": "今敏 Satoshi Kon",
+        "year": "2003",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "动画"
+        ],
+        "score": "9.0",
+        "comments": "274847",
+        "quote": ""
+    },
+    {
+        "title": "牯岭街少年杀人事件",
+        "other_titles": [
+            "牯嶺街少年殺人事件",
+            "A Brighter Summer Day"
+        ],
+        "director": "杨德昌 Edward Yang",
+        "year": "1991",
+        "country": "中国台湾",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "8.9",
+        "comments": "349481",
+        "quote": ""
+    },
+    {
+        "title": "岁月神偷",
+        "other_titles": [
+            "歲月神偷",
+            "1969太空漫游  /  Echoes Of The Rainbow"
+        ],
+        "director": "罗启锐 Alex Law",
+        "year": "2010",
+        "country": "中国香港 中国大陆",
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "score": "8.7",
+        "comments": "603460",
+        "quote": "岁月流逝，来日可追。"
+    },
+    {
+        "title": "魔女宅急便",
+        "other_titles": [
+            "魔女の宅急便",
+            "魔女琪琪(台)  /  小魔女限时专送"
+        ],
+        "director": "宫崎骏 Hayao Miyazaki",
+        "year": "1989",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.7",
+        "comments": "507345",
+        "quote": ""
+    },
+    {
+        "title": "忠犬八公物语",
+        "other_titles": [
+            "ハチ公物語",
+            "八千公物语  /  阿八的故事"
+        ],
+        "director": "神山征二郎 Seijirô Kôyama",
+        "year": "1987",
+        "country": "日本",
+        "genre": [
+            "剧情"
+        ],
+        "score": "9.2",
+        "comments": "212559",
+        "quote": ""
+    },
+    {
+        "title": "荒蛮故事",
+        "other_titles": [
+            "Relatos salvajes",
+            "蛮荒故事  /  生命中最抓狂的小事(台)"
+        ],
+        "director": "达米安·斯兹弗隆 Damián Szifron",
+        "year": "2014",
+        "country": "阿根廷 西班牙",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "犯罪"
+        ],
+        "score": "8.7",
+        "comments": "499333",
+        "quote": "始于荒诞，止于更荒诞。"
+    },
+    {
+        "title": "遗愿清单",
+        "other_titles": [
+            "The Bucket List",
+            "玩转身前事(港)  /  一路玩到挂(台)"
+        ],
+        "director": "罗伯·莱纳 Rob Reiner",
+        "year": "2007",
+        "country": "美国",
+        "genre": [
+            "冒险",
+            "喜剧",
+            "剧情"
+        ],
+        "score": "8.7",
+        "comments": "516640",
+        "quote": "用剩余不多的时间，去燃烧整个生命。"
+    },
+    {
+        "title": "大佛普拉斯",
+        "other_titles": [
+            "The Great Buddha+"
+        ],
+        "director": "黄信尧 Hsin-yao Huang",
+        "year": "2017",
+        "country": "中国台湾",
+        "genre": [
+            "剧情",
+            "喜剧"
+        ],
+        "score": "8.7",
+        "comments": "530791",
+        "quote": "人们可以登上月球，却永远无法探索人们内心的宇宙。"
+    },
+    {
+        "title": "贫民窟的百万富翁",
+        "other_titles": [
+            "Slumdog Millionaire",
+            "一百万零一夜(港)  /  贫民百万富翁(台)"
+        ],
+        "director": "丹尼·鲍尔 Danny Boyle / 洛芙琳·坦丹 Loveleen Tandan",
+        "year": "2008",
+        "country": "英国",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.6",
+        "comments": "792273",
+        "quote": "上帝之城+猜火车+阿甘正传+开心辞典=山寨富翁"
+    },
+    {
+        "title": "源代码",
+        "other_titles": [
+            "Source Code",
+            "启动原始码(台)  /  危机解密(港)"
+        ],
+        "director": "邓肯·琼斯 Duncan Jones",
+        "year": "2011",
+        "country": "美国 加拿大",
+        "genre": [
+            "科幻",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.6",
+        "comments": "900975",
+        "quote": "邓肯·琼斯继《月球》之后再度奉献出一部精彩绝伦的科幻佳作。"
+    },
+    {
+        "title": "东邪西毒",
+        "other_titles": [
+            "東邪西毒",
+            "Ashes of Time"
+        ],
+        "director": "王家卫 Kar Wai Wong",
+        "year": "1994",
+        "country": "中国香港 中国台湾",
+        "genre": [
+            "剧情",
+            "动作",
+            "爱情",
+            "武侠",
+            "古装"
+        ],
+        "score": "8.6",
+        "comments": "620139",
+        "quote": ""
+    },
+    {
+        "title": "芙蓉镇",
+        "other_titles": [
+            "Hibiscus Town"
+        ],
+        "director": "谢晋 Jin Xie",
+        "year": "1987",
+        "country": "中国大陆",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "9.3",
+        "comments": "175027",
+        "quote": ""
+    },
+    {
+        "title": "你看起来好像很好吃",
+        "other_titles": [
+            "おまえうまそうだな",
+            "你看起来很好吃(台)  /  你看上去好像很好吃"
+        ],
+        "director": "藤森雅也 Masaya Fujimori",
+        "year": "2010",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "动画",
+            "儿童"
+        ],
+        "score": "8.9",
+        "comments": "363186",
+        "quote": "感情不分食草或者食肉。"
+    },
+    {
+        "title": "疯狂的麦克斯4：狂暴之路",
+        "other_titles": [
+            "Mad Max: Fury Road",
+            "末日先锋：战甲飞车(港)  /  疯狂麦斯：愤怒道(台)"
+        ],
+        "director": "乔治·米勒 George Miller",
+        "year": "2015",
+        "country": "澳大利亚 美国",
+        "genre": [
+            "动作",
+            "科幻",
+            "冒险"
+        ],
+        "score": "8.7",
+        "comments": "599269",
+        "quote": "“多么美好的一天！”轰轰轰砰咚，啪哒哒哒轰隆隆，磅~"
+    },
+    {
+        "title": "可可西里",
+        "other_titles": [
+            "Kekexili: Mountain Patrol"
+        ],
+        "director": "陆川 Chuan Lu",
+        "year": "2004",
+        "country": "中国大陆 中国香港",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "8.9",
+        "comments": "334152",
+        "quote": "坚硬的信仰。"
+    },
+    {
+        "title": "爆裂鼓手",
+        "other_titles": [
+            "Whiplash",
+            "鼓动真我(港)  /  进击的鼓手(台)"
+        ],
+        "director": "达米恩·查泽雷 Damien Chazelle",
+        "year": "2014",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "音乐"
+        ],
+        "score": "8.6",
+        "comments": "667015",
+        "quote": "这个世界从不善待努力的人，努力了也不一定会成功，但是知道自己在努力，就是活下去的动力。"
+    },
+    {
+        "title": "城市之光",
+        "other_titles": [
+            "City Lights",
+            "City Lights: A Comedy Romance in Pantomime  /  Lichter der Großstadt"
+        ],
+        "director": "查理·卓别林 Charles Chaplin",
+        "year": "1931",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "剧情",
+            "爱情"
+        ],
+        "score": "9.3",
+        "comments": "164903",
+        "quote": ""
+    },
+    {
+        "title": "波西米亚狂想曲",
+        "other_titles": [
+            "Bohemian Rhapsody",
+            "波希米亚狂想曲：摇滚传说(港)  /  波希米亚狂想曲(台)"
+        ],
+        "director": "布莱恩·辛格 Bryan Singer",
+        "year": "2018",
+        "country": "英国 美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "同性",
+            "音乐"
+        ],
+        "score": "8.6",
+        "comments": "668592",
+        "quote": ""
+    },
+    {
+        "title": "花束般的恋爱",
+        "other_titles": [
+            "花束みたいな恋をした",
+            "她和他的恋爱花期(港)  /  爱如花束 恋恋不忘"
+        ],
+        "director": "土井裕泰 Nobuhiro Doi",
+        "year": "2021",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.6",
+        "comments": "773191",
+        "quote": ""
+    },
+    {
+        "title": "黑天鹅",
+        "other_titles": [
+            "Black Swan",
+            "夺命黑天鹅  /  霸王别鹅(豆友译名)"
+        ],
+        "director": "达伦·阿罗诺夫斯基 Darren Aronofsky",
+        "year": "2010",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "惊悚"
+        ],
+        "score": "8.6",
+        "comments": "827439",
+        "quote": "黑暗之美。"
+    },
+    {
+        "title": "爱乐之城",
+        "other_titles": [
+            "La La Land",
+            "星声梦里人(港)  /  乐来越爱你(台)"
+        ],
+        "director": "达米恩·查泽雷 Damien Chazelle",
+        "year": "2016",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "爱情",
+            "歌舞"
+        ],
+        "score": "8.4",
+        "comments": "1052746",
+        "quote": ""
+    },
+    {
+        "title": "青蛇",
+        "other_titles": [
+            "Green Snake"
+        ],
+        "director": "徐克 Hark Tsui",
+        "year": "1993",
+        "country": "中国香港 中国大陆",
+        "genre": [
+            "剧情",
+            "爱情",
+            "奇幻",
+            "古装"
+        ],
+        "score": "8.6",
+        "comments": "575019",
+        "quote": ""
+    },
+    {
+        "title": "白日梦想家",
+        "other_titles": [
+            "The Secret Life of Walter Mitty",
+            "发梦王大历险(港)  /  白日梦冒险王(台)"
+        ],
+        "director": "本·斯蒂勒 Ben Stiller",
+        "year": "2013",
+        "country": "美国 英国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "冒险"
+        ],
+        "score": "8.6",
+        "comments": "604220",
+        "quote": ""
+    },
+    {
+        "title": "哈利·波特与死亡圣器(上)",
+        "other_titles": [
+            "Harry Potter and the Deathly Hallows: Part 1",
+            "哈利波特7：死神的圣物1(港 / 台)"
+        ],
+        "director": "大卫·叶茨 David Yates",
+        "year": "2010",
+        "country": "英国 美国",
+        "genre": [
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.6",
+        "comments": "667246",
+        "quote": "最忠于原著的一部。"
+    },
+    {
+        "title": "终结者2：审判日",
+        "other_titles": [
+            "Terminator 2: Judgment Day",
+            "未来战士2(港)  /  魔鬼终结者2(台)"
+        ],
+        "director": "詹姆斯·卡梅隆 James Cameron",
+        "year": "1991",
+        "country": "美国 法国",
+        "genre": [
+            "动作",
+            "科幻"
+        ],
+        "score": "8.8",
+        "comments": "371440",
+        "quote": ""
+    },
+    {
+        "title": "初恋这件小事",
+        "other_titles": [
+            "สิ่งเล็กเล็กที่เรียกว่า...รัก",
+            "初恋那件小事(港)  /  暗恋那点小事"
+        ],
+        "director": "普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn / 华森·波克彭...",
+        "year": "2010",
+        "country": "泰国",
+        "genre": [
+            "剧情",
+            "喜剧",
+            "爱情"
+        ],
+        "score": "8.5",
+        "comments": "1033003",
+        "quote": "黑小鸭速效美白记。"
+    },
+    {
+        "title": "无耻混蛋",
+        "other_titles": [
+            "Inglourious Basterds",
+            "希魔撞正杀人狂(港)  /  恶棍特工(台)"
+        ],
+        "director": "昆汀·塔伦蒂诺 Quentin Tarantino",
+        "year": "2009",
+        "country": "德国 美国",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "8.7",
+        "comments": "534495",
+        "quote": "昆汀同学越来越变态了，比北野武还杜琪峰。"
+    },
+    {
+        "title": "雨人",
+        "other_titles": [
+            "Rain Man",
+            "手足情未了(港)  /  手足情深"
+        ],
+        "director": "巴瑞·莱文森 Barry Levinson",
+        "year": "1988",
+        "country": "美国",
+        "genre": [
+            "剧情"
+        ],
+        "score": "8.7",
+        "comments": "432891",
+        "quote": ""
+    },
+    {
+        "title": "新龙门客栈",
+        "other_titles": [
+            "新龍門客棧",
+            "New Dragon Gate Inn"
+        ],
+        "director": "李惠民 Raymond Lee",
+        "year": "1992",
+        "country": "中国香港 中国大陆",
+        "genre": [
+            "动作",
+            "爱情",
+            "武侠",
+            "古装"
+        ],
+        "score": "8.7",
+        "comments": "490091",
+        "quote": ""
+    },
+    {
+        "title": "人工智能",
+        "other_titles": [
+            "A.I. Artificial Intelligence",
+            "AI人工智慧"
+        ],
+        "director": "史蒂文·斯皮尔伯格 Steven Spielberg",
+        "year": "2001",
+        "country": "美国 英国",
+        "genre": [
+            "剧情",
+            "科幻"
+        ],
+        "score": "8.7",
+        "comments": "486985",
+        "quote": ""
+    },
+    {
+        "title": "虎口脱险",
+        "other_titles": [
+            "La grande vadrouille",
+            "横冲直撞出重围(港)  /  大進擊(台)"
+        ],
+        "director": "杰拉尔·乌里 Gérard Oury",
+        "year": "1966",
+        "country": "法国 英国",
+        "genre": [
+            "喜剧",
+            "战争"
+        ],
+        "score": "8.9",
+        "comments": "284926",
+        "quote": ""
+    },
+    {
+        "title": "真爱至上",
+        "other_titles": [
+            "Love Actually",
+            "真的恋爱了(港)  /  爱是您，爱是我(台)"
+        ],
+        "director": "理查德·柯蒂斯 Richard Curtis",
+        "year": "2003",
+        "country": "英国 美国 法国",
+        "genre": [
+            "喜剧",
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.5",
+        "comments": "789055",
+        "quote": ""
+    },
+    {
+        "title": "崖上的波妞",
+        "other_titles": [
+            "崖の上のポニョ",
+            "悬崖上的金鱼姬  /  悬崖上的金鱼公主"
+        ],
+        "director": "宫崎骏 Hayao Miyazaki",
+        "year": "2008",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.6",
+        "comments": "554280",
+        "quote": ""
+    },
+    {
+        "title": "恋恋笔记本",
+        "other_titles": [
+            "The Notebook",
+            "忘了·忘不了(港)  /  手札情缘(台)"
+        ],
+        "director": "尼克·卡索维茨 Nick Cassavetes",
+        "year": "2004",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.5",
+        "comments": "728819",
+        "quote": "爱情没有那么多借口，如果不能圆满，只能说明爱的不够。"
+    },
+    {
+        "title": "千钧一发",
+        "other_titles": [
+            "Gattaca",
+            "变种异煞(港)  /  自然人"
+        ],
+        "director": "安德鲁·尼科尔 Andrew Niccol",
+        "year": "1997",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "科幻",
+            "惊悚"
+        ],
+        "score": "8.8",
+        "comments": "334108",
+        "quote": ""
+    },
+    {
+        "title": "罗生门",
+        "other_titles": [
+            "羅生門",
+            "Rashomon"
+        ],
+        "director": "黑泽明 Akira Kurosawa",
+        "year": "1950",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "犯罪",
+            "悬疑"
+        ],
+        "score": "8.8",
+        "comments": "346433",
+        "quote": ""
+    },
+    {
+        "title": "大红灯笼高高挂",
+        "other_titles": [
+            "Raise The Red Lantern  /  Épouses et concubines"
+        ],
+        "director": "张艺谋 Yimou Zhang",
+        "year": "1991",
+        "country": "中国大陆 中国香港 中国台湾",
+        "genre": [
+            "剧情"
+        ],
+        "score": "8.8",
+        "comments": "345906",
+        "quote": ""
+    },
+    {
+        "title": "机器人之梦",
+        "other_titles": [
+            "Robot Dreams",
+            "再见机器人(台)  /  汪汪梦里人(港)"
+        ],
+        "director": "巴勃罗·贝格尔 Pablo Berger",
+        "year": "2023",
+        "country": "西班牙 法国",
+        "genre": [
+            "剧情",
+            "动画",
+            "音乐"
+        ],
+        "score": "9.1",
+        "comments": "353085",
+        "quote": ""
+    },
+    {
+        "title": "彗星来的那一夜",
+        "other_titles": [
+            "Coherence",
+            "相干性  /  相干效应"
+        ],
+        "director": "詹姆斯·沃德·布柯特 James Ward Byrkit",
+        "year": "2013",
+        "country": "美国 英国",
+        "genre": [
+            "科幻",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.6",
+        "comments": "656022",
+        "quote": "小成本大魅力。"
+    },
+    {
+        "title": "哈利·波特与凤凰社",
+        "other_titles": [
+            "Harry Potter and the Order of the Phoenix",
+            "哈利波特5：凤凰会的密令(港 / 台)"
+        ],
+        "director": "大卫·叶茨 David Yates",
+        "year": "2007",
+        "country": "英国 美国",
+        "genre": [
+            "奇幻",
+            "冒险"
+        ],
+        "score": "8.5",
+        "comments": "666039",
+        "quote": ""
+    },
+    {
+        "title": "海边的曼彻斯特",
+        "other_titles": [
+            "Manchester by the Sea",
+            "情系海边之城(港)"
+        ],
+        "director": "肯尼斯·罗纳根 Kenneth Lonergan",
+        "year": "2016",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "score": "8.6",
+        "comments": "624179",
+        "quote": "我们都有权利不与自己的过去和解。"
+    },
+    {
+        "title": "火星救援",
+        "other_titles": [
+            "The Martian",
+            "火星任务(港)  /  绝地救援(台)"
+        ],
+        "director": "雷德利·斯科特 Ridley Scott",
+        "year": "2015",
+        "country": "英国 美国 匈牙利 约旦",
+        "genre": [
+            "剧情",
+            "科幻",
+            "冒险"
+        ],
+        "score": "8.5",
+        "comments": "805106",
+        "quote": ""
+    },
+    {
+        "title": "黑客帝国2：重装上阵",
+        "other_titles": [
+            "The Matrix Reloaded",
+            "22世纪杀人网络2：决战未来(港)  /  骇客任务：重装上阵(台)"
+        ],
+        "director": "拉娜·沃卓斯基 Lana Wachowski / 莉莉·沃卓斯基 Lilly Wachowski...",
+        "year": "2003",
+        "country": "美国",
+        "genre": [
+            "动作",
+            "科幻"
+        ],
+        "score": "8.7",
+        "comments": "441758",
+        "quote": ""
+    },
+    {
+        "title": "奇迹男孩",
+        "other_titles": [
+            "Wonder",
+            "奇迹"
+        ],
+        "director": "斯蒂芬·卓博斯基 Stephen Chbosky",
+        "year": "2017",
+        "country": "美国 中国香港",
+        "genre": [
+            "剧情",
+            "儿童",
+            "家庭"
+        ],
+        "score": "8.6",
+        "comments": "587668",
+        "quote": "世界不完美，爱会有奇迹。"
+    },
+    {
+        "title": "萤火虫之墓",
+        "other_titles": [
+            "火垂るの墓",
+            "再见萤火虫(港)  /  萤火挽歌"
+        ],
+        "director": "高畑勋 Isao Takahata",
+        "year": "1988",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "剧情",
+            "战争"
+        ],
+        "score": "8.7",
+        "comments": "430055",
+        "quote": ""
+    },
+    {
+        "title": "战争之王",
+        "other_titles": [
+            "Lord of War",
+            "军火之王(台 / 港)"
+        ],
+        "director": "安德鲁·尼科尔 Andrew Niccol",
+        "year": "2005",
+        "country": "美国 德国",
+        "genre": [
+            "剧情",
+            "犯罪"
+        ],
+        "score": "8.7",
+        "comments": "403176",
+        "quote": "做一颗让别人需要你的棋子。"
+    },
+    {
+        "title": "千年女优",
+        "other_titles": [
+            "千年女優",
+            "Millennium Actress"
+        ],
+        "director": "今敏 Satoshi Kon",
+        "year": "2001",
+        "country": "日本",
+        "genre": [
+            "动画",
+            "剧情",
+            "爱情"
+        ],
+        "score": "8.8",
+        "comments": "305457",
+        "quote": ""
+    },
+    {
+        "title": "步履不停",
+        "other_titles": [
+            "歩いても 歩いても",
+            "横山家之味(港 / 台)"
+        ],
+        "director": "是枝裕和 Hirokazu Koreeda",
+        "year": "2008",
+        "country": "日本",
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "score": "8.8",
+        "comments": "311409",
+        "quote": "日本的家庭电影已经是世界巅峰了，步履不停是巅峰中的佳作。"
+    },
+    {
+        "title": "血钻",
+        "other_titles": [
+            "Blood Diamond",
+            "血钻石(台)  /  血腥钻石"
+        ],
+        "director": "爱德华·兹威克 Edward Zwick",
+        "year": "2006",
+        "country": "美国 德国 英国",
+        "genre": [
+            "剧情",
+            "惊悚",
+            "冒险"
+        ],
+        "score": "8.7",
+        "comments": "411354",
+        "quote": "每个美丽事物背后都是滴血的现实。"
+    },
+    {
+        "title": "谍影重重2",
+        "other_titles": [
+            "The Bourne Supremacy",
+            "叛谍追击2：机密圈套(港)  /  神鬼认证：神鬼疑云(台)"
+        ],
+        "director": "保罗·格林格拉斯 Paul Greengrass",
+        "year": "2004",
+        "country": "美国 德国",
+        "genre": [
+            "动作",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.7",
+        "comments": "385947",
+        "quote": "谁说王家卫镜头很晃？"
+    },
+    {
+        "title": "蜘蛛侠：平行宇宙",
+        "other_titles": [
+            "Spider-Man: Into the Spider-Verse",
+            "蜘蛛侠：新纪元  /  蜘蛛人：新宇宙(台)"
+        ],
+        "director": "鲍勃·佩尔西凯蒂 Bob Persichetti / 彼得·拉姆齐 Peter Ramsey主...",
+        "year": "2018",
+        "country": "美国",
+        "genre": [
+            "动作",
+            "科幻",
+            "动画",
+            "冒险"
+        ],
+        "score": "8.6",
+        "comments": "734279",
+        "quote": ""
+    },
+    {
+        "title": "魂断蓝桥",
+        "other_titles": [
+            "Waterloo Bridge",
+            "滑铁卢桥  /  断桥残梦"
+        ],
+        "director": "茂文·勒鲁瓦 Mervyn LeRoy",
+        "year": "1940",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "爱情",
+            "战争"
+        ],
+        "score": "8.8",
+        "comments": "301958",
+        "quote": ""
+    },
+    {
+        "title": "房间",
+        "other_titles": [
+            "Room",
+            "不存在的房间(台)  /  抖室(港)"
+        ],
+        "director": "伦尼·阿伯拉罕森 Lenny Abrahamson",
+        "year": "2015",
+        "country": "爱尔兰 加拿大 英国 美国",
+        "genre": [
+            "剧情",
+            "家庭"
+        ],
+        "score": "8.8",
+        "comments": "392307",
+        "quote": "被偷走的岁月，被伤害的生命，被禁锢的灵魂，终将被希望和善意救赎。"
+    },
+    {
+        "title": "冰雪奇缘",
+        "other_titles": [
+            "Frozen",
+            "魔雪奇缘(港)  /  冰雪大冒险"
+        ],
+        "director": "克里斯·巴克 Chris Buck / 珍妮弗·李 Jennifer Lee",
+        "year": "2013",
+        "country": "美国",
+        "genre": [
+            "喜剧",
+            "动画",
+            "奇幻",
+            "歌舞"
+        ],
+        "score": "8.5",
+        "comments": "782437",
+        "quote": ""
+    },
+    {
+        "title": "隐藏人物",
+        "other_titles": [
+            "Hidden Figures",
+            "NASA无名英雌(港)  /  关键少数(台)"
+        ],
+        "director": "特奥多尔·梅尔菲 Theodore Melfi",
+        "year": "2016",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "传记",
+            "历史"
+        ],
+        "score": "8.9",
+        "comments": "256801",
+        "quote": ""
+    },
+    {
+        "title": "谍影重重",
+        "other_titles": [
+            "The Bourne Identity",
+            "叛谍追击(港)  /  神鬼认证(台)"
+        ],
+        "director": "道格·里曼 Doug Liman",
+        "year": "2002",
+        "country": "美国 德国 捷克",
+        "genre": [
+            "动作",
+            "悬疑",
+            "惊悚"
+        ],
+        "score": "8.6",
+        "comments": "470557",
+        "quote": ""
+    },
+    {
+        "title": "弱点",
+        "other_titles": [
+            "The Blind Side",
+            "守护有心人(港)  /  攻其不备(台)"
+        ],
+        "director": "约翰·李·汉考克 John Lee Hancock",
+        "year": "2009",
+        "country": "美国",
+        "genre": [
+            "剧情",
+            "家庭",
+            "传记",
+            "运动"
+        ],
+        "score": "8.7",
+        "comments": "346316",
+        "quote": "拍掉身上的悲伤，从今天开始重新踏上追梦之旅。"
+    }
+]
